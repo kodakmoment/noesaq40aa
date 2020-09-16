@@ -1,0 +1,139 @@
+{Circle}Obsidian Eradicator{Circle}
+
+- Drains raid's mana
+- Big AOE when mob reaches full mana
+
+1. Kill fast.
+2. If you can't kill fast, drain mob's mana during the fight
+
+Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}
+
+---------------------
+
+{Circle}Anubisath Sentinels{Circle}
+
+- These come in packs of 4
+- They each have 1 random ability:
+
+1. Heal over time
+2. Mana Burn
+3. Mortal Strike
+4. Tank Knockback
+5. Shadowbolt Volley (15 yard range)
+6. Reflect Shadow/Frost
+7. Reflect Fire/Arcane
+8. Thunderclap
+9. Thorns
+
+- Abilities transfer on death until 1 is left with all 4
+
+1. 1 tank per mob
+2. Detect magic on each mob
+3. Kill the mobs with easy abilites first
+
+Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}
+
+---------------------
+
+{Circle}Brainwasher Pack{Circle}
+
+**NB: packs may vary - Marks will be adjusted to kill order**
+
+1st target: {Skull}Qiraji Brainwasher{Skull}
+- Cause Insanity (10 second mind control)
+- Mana Burn (AOE drain, also does dmg)
+
+2nd target: {Cross}Vekniss Guardian{Cross}
+- Face against the wall to avoid knockback
+
+3rd target: {Square}Vekniss Warrior{Square}
+-  Summons Vekniss Borers when killed
+- AOE down the Vekniss Borers after these mobs die
+
+Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}
+
+---------------------
+
+{Circle}Scarab Gauntlet{Circle}
+
+- Keep moving with the raid - DON'T DROP TOTEMS
+- Hug the left wall - pile up the adds like in Suppression Room then AOE
+- Elite mobs have a short ranged but powerful AOE attack
+
+Once at Fankriss room, hug left wall and move into Safe Spot around corner
+
+---------------------
+
+{Circle}Trash after Fankriss{Circle}
+
+**NB: packs may vary - Marks will be adjusted to kill order**
+
+{Skull}Qiraji Lasher{Skull}
+- Swaps Aggro randomly
+- Can't be stunned
+- T1 & T2 taunt rotate (+ others if needed)
+
+{Cross}Vekniss Wasp{Cross}
+- REMOVE POISON on Vekniss Catalyst - DoT, Slow and increased dmg from Vekniss Stinger Charge
+
+{Square}Vekniss Stinger{Square}
+- Charges random raiders, with massive damage increase if poisoned with Vekniss Catalyst
+
+Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}
+
+---------------------
+
+{Circle}Anubisath Defender{Circle}
+
+4 possible abilities:
+- Meteor (AOE dmg) OR Plague DoT
+- Shadow Bolt Volley OR Thunderclap
+- Enrage OR Explode
+- Reflect Arcane+Fire OR Shadow+Frost
+
+Use DETECT MAGIC - Mage announce
+If Meteor: Melee and ranged stack in 2 groups
+If Plague: Run away when debuff hits
+If Explode: Run away at 20%
+
+---------------------
+
+{Circle}Trash after Twins{Circle}
+
+**Pull these adds back into the Twins room**
+**NB: packs may vary - Marks will be adjusted to kill order**
+
+{Skull}Qiraji Mindslayer{Skull} - priority target
+- 10 sec MC
+- Mana Burn and AOE fear when killed - pull them away from raid when they die
+
+{cross}Qiraji Slayer{cross}
+- AOE Whirlwind
+- AOE silence from Frenzy - hunters Tranq and tanked far away from healers
+- Knockback and random aggro wipe
+
+{square}Qiraji Champion{square}
+- Knockback with aggro wipe
+- AOE Fear so tank away from raid
+- Enrage when low (can be dispelled/purged!)
+
+Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}
+
+---------------------
+
+{Circle}More Trash after Twins{Circle}
+
+{star}Obsidian Nullifiers{star}
+- Drains raid's mana - Big AOE when mob reaches full mana
+- If you can't kill fast, drain mob's mana during the fight
+- Focus down one at a time - kill before Anubisath Warders
+
+{circle}Anubisath Warder{circle}
+Pull them away from the raid and kill after Nullifiers
+Possible abilities:
+- Root / Fear
+- Dust Cloud (Hit reduction) / Silence
+
+Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}
+
+---------------------
