@@ -1,26 +1,13 @@
 {Skull}{Cross}The Twin Emperors{Cross}{Skull}
 
-{Skull}Vekn'nilash{Skull}: Tanked by T1 and T2
-- Mutate Bug (18x more dmg) Must be killed immediatly
-- Uppercut (knocks melee dmg away) 1k dmg
-- Unbalancing Strike (350% wpdmg and reduces defense skill by 100 on tank)
-- HEALERS Insta heal tank on Unbalancing Strike and keep it up
+TANK ASSIGNMENT
+T1, S1 -> Vek'nilash side
+T2, S2 -> Vek'lor's side
+T3 -> Mutated Bugs in middle
 
-{Cross}Vek'lor{Cross}: Tanked by S1 and S2
-- Explode Bug (3k Fire dmg) - move away and spread out!
-- Shadow Bolt (on warlock tank)
-- Blizzard (High dmg aoe) - move out!
-- Arcane Burst (AOE low range) - stay out of melee range!
+HEAL ASSIGNMENTS
+H1, H3, H5, H7, H9 -> Vek'nilash side
+H2, H4, H6, H8, H10 -> Vek'lor's side
+H9, H10 -> Raid heal if needed
 
-Tactic:
-**use a GFPP before fight**Warlock tanks use GSPP before fight**
-- T1 and S1 on Vek'nilash side of room, T2 and S2 on Vek'lor's side
-- Locks use Searing Pain to gain aggro on Vek'lor
-- Melee/Hunters dps Vek'nilash; Casters on Vek'lor - Swap sides when Twins swap!
-- T3 tanks Mutated Bugs in middle - Hunters tag them when needed
-
-HEALING: Healers in two groups healing each position
-H1, H3, H5, H7, H9 on VEK'NILASH starting side - H1 and H3 focus tanks, rest raid heal
-H2, H4, H6, H8, H10 on VEK'LOR starting side - H2 and H4 focus tanks, rest raid heal
-Raid healers help on tanks during Twin swaps if needed
- 
+Dont stay closer then tank on teleport

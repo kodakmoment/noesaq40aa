@@ -12,8 +12,8 @@ I4, I5 -> Right
 
 HEAL ASSIGNMENT
 H1, H2 -> T1
-H3     -> T2
-H4     -> T3
-H5     -> T4
-H6     -> O1
-H7     -> O2
+H3 -> T2
+H4 -> T3
+H5 -> T4
+H6 -> O1
+H7 -> O2

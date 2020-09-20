@@ -1,22 +1,13 @@
 {Skull}Princess Huhuran{Skull}
 
-Abilities:
-- Wyvern Sting - 12 sec sleep to 10 closest - ONLY DISPEL FROM TANKS (large dmg when dispelled)
-- Acid Spit (nature dmg, stacking ability)
-- Noxious Poison (DoT put on a random player, spreading to others in a 10-15 yard range, doing 2900 dmg and silences for 8 sec)
-- Frenzy (150% attack speed)
-- Enrage (at 30% hp) - WHEN ENRAGED: Poison Bolt (massive aoe nature dmg to the 15 closest raiders)
+TANK ASSIGNMENT
+T1, T2 -> {Skull} # Tank rotation
 
-**Everyone use a GNPP before the fight**
-**Melee and Hunters equip NR gear - 150 minimum, 200 unbuffed is ideal - minimum 15 soakers
-**If you have less than 150 please let Raid Leader know so we can adjust
-**Hunters / Shamans use NR aspect/totem (NO POISON CLEANSING TOTEM)
-**All pop GNPP when she enrages
+HEAL ASSIGNMENTS
+H1, H2, H3 -> T1, T2
 
-Ranged dps spread out to avoid Noxious Poison spreading
+HUNTER ROTATION
+U2 -> U3 -> U1
 
-T1 tanks - Tank swap to T2 when Acid Spit stacks get too high
-
-HEALING: H1, H2, H3 on T1/T2. Rest raid heal - after Enrage all non-tank healers focus soakers.
-
-Tranq rotation: U2 -> U3 -> U1
+Remember gnpp and enrage at 30%
+Ranged spread out

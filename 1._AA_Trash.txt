@@ -1,54 +1,50 @@
 {Circle}Obsidian Eradicator{Circle}
 
-- Drains raid's mana
-- Big AOE when mob reaches full mana
+TANK ASSIGNMENT
+T1 -> {Circle}
 
-1. Kill fast.
-2. If you can't kill fast, drain mob's mana during the fight
+HEAL ASSIGNMENT
+H7, H8 -> T1
 
-Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}
+Priests, Warlocks and Hunters drain mana!
 
 ---------------------
 
-{Circle}Anubisath Sentinels{Circle}
+{skull}{cross}{square}{star}Anubisath Sentinels{star}{square}{cross}{skull}
 
-- These come in packs of 4
-- They each have 1 random ability:
+TANK ASSIGNMENT
+T1 -> {skull}
+T2 -> {cross}
+T3 -> {square}
+T4 -> {star}
 
-1. Heal over time
-2. Mana Burn
-3. Mortal Strike
-4. Tank Knockback
-5. Shadowbolt Volley (15 yard range)
-6. Reflect Shadow/Frost
-7. Reflect Fire/Arcane
-8. Thunderclap
-9. Thorns
+HEAL ASSIGNMENT
+H1 -> T1
+H2 -> T2
+H3 -> T3
+H4 -> T4
 
-- Abilities transfer on death until 1 is left with all 4
-
-1. 1 tank per mob
-2. Detect magic on each mob
-3. Kill the mobs with easy abilites first
-
-Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}
+Kill order: {skull} -> {cross} -> {square} -> {star}
 
 ---------------------
 
 {Circle}Brainwasher Pack{Circle}
 
-**NB: packs may vary - Marks will be adjusted to kill order**
+TANK ASSIGNMENT
+T1 -> {skull}
+T2 -> {cross}
+T3 -> {square}
+T4 -> {star}
+O1 -> {Circle}
+O2 -> {moon}
 
-1st target: {Skull}Qiraji Brainwasher{Skull}
-- Cause Insanity (10 second mind control)
-- Mana Burn (AOE drain, also does dmg)
-
-2nd target: {Cross}Vekniss Guardian{Cross}
-- Face against the wall to avoid knockback
-
-3rd target: {Square}Vekniss Warrior{Square}
--  Summons Vekniss Borers when killed
-- AOE down the Vekniss Borers after these mobs die
+HEAL ASSIGNMENT
+H1 -> T1
+H2 -> T2
+H3 -> T3
+H4 -> T4
+H5 -> O1
+H6 -> O2
 
 Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}
 
@@ -56,28 +52,26 @@ Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}
 
 {Circle}Scarab Gauntlet{Circle}
 
-- Keep moving with the raid - DON'T DROP TOTEMS
-- Hug the left wall - pile up the adds like in Suppression Room then AOE
-- Elite mobs have a short ranged but powerful AOE attack
-
-Once at Fankriss room, hug left wall and move into Safe Spot around corner
+Move as one and follow {star}
 
 ---------------------
 
 {Circle}Trash after Fankriss{Circle}
 
-**NB: packs may vary - Marks will be adjusted to kill order**
+TANK ASSIGNMENT
+T1, T2 -> {Skull}
+T3 -> {Cross}
+T4 -> {Square}
+O1 -> {star}
+O2 -> {Circle}
 
-{Skull}Qiraji Lasher{Skull}
-- Swaps Aggro randomly
-- Can't be stunned
-- T1 & T2 taunt rotate (+ others if needed)
-
-{Cross}Vekniss Wasp{Cross}
-- REMOVE POISON on Vekniss Catalyst - DoT, Slow and increased dmg from Vekniss Stinger Charge
-
-{Square}Vekniss Stinger{Square}
-- Charges random raiders, with massive damage increase if poisoned with Vekniss Catalyst
+HEAL ASSIGNMENT
+H1 -> T1
+H2 -> T2
+H3 -> T3
+H4 -> T4
+H5 -> O1
+H6 -> O2
 
 Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}
 
@@ -85,55 +79,52 @@ Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}
 
 {Circle}Anubisath Defender{Circle}
 
-4 possible abilities:
-- Meteor (AOE dmg) OR Plague DoT
-- Shadow Bolt Volley OR Thunderclap
-- Enrage OR Explode
-- Reflect Arcane+Fire OR Shadow+Frost
+TANK ASSIGNMENT
+T1 -> {Circle}
 
-Use DETECT MAGIC - Mage announce
-If Meteor: Melee and ranged stack in 2 groups
-If Plague: Run away when debuff hits
-If Explode: Run away at 20%
+HEAL ASSIGNMENT
+H1, H2, H6 -> T1
+
+Melee stack on {cross}
+Ranged stack on {moon}
 
 ---------------------
 
 {Circle}Trash after Twins{Circle}
 
-**Pull these adds back into the Twins room**
-**NB: packs may vary - Marks will be adjusted to kill order**
+TANK ASSIGNMENT
+T1, O1 -> {square}
+T2 -> {cross}
+T3 -> {Skull}
+T4 -> {star}
+O2 -> {Circle}
 
-{Skull}Qiraji Mindslayer{Skull} - priority target
-- 10 sec MC
-- Mana Burn and AOE fear when killed - pull them away from raid when they die
+HEAL ASSIGNMENT
+H1 -> T1
+H2 -> T2
+H3 -> T3
+H4 -> T4
+H5 -> O1
+H6 -> O2
 
-{cross}Qiraji Slayer{cross}
-- AOE Whirlwind
-- AOE silence from Frenzy - hunters Tranq and tanked far away from healers
-- Knockback and random aggro wipe
-
-{square}Qiraji Champion{square}
-- Knockback with aggro wipe
-- AOE Fear so tank away from raid
-- Enrage when low (can be dispelled/purged!)
-
-Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}
+Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle}
 
 ---------------------
 
 {Circle}More Trash after Twins{Circle}
 
-{star}Obsidian Nullifiers{star}
-- Drains raid's mana - Big AOE when mob reaches full mana
-- If you can't kill fast, drain mob's mana during the fight
-- Focus down one at a time - kill before Anubisath Warders
+TANK ASSIGNMENT
+T1 -> {skull}
+T2 -> {cross}
+T3 -> {square}
 
-{circle}Anubisath Warder{circle}
-Pull them away from the raid and kill after Nullifiers
-Possible abilities:
-- Root / Fear
-- Dust Cloud (Hit reduction) / Silence
+HEAL ASSIGNMENT
+H1 -> T1
+H2 -> T2
+H3 -> T3
 
-Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}
+Priests, Warlocks and Hunters drain {square}
+
+Kill order: {skull} -> {cross} -> {square}
 
 ---------------------
