@@ -9,4 +9,6 @@ HEAL ASSIGNMENTS
 H1, H2, H3 -> T1
 H4,H5 -> T2, T3
 
-Rember enrage at 20%
+Remember enrage at 20%
+Melee out on Sweep
+DPS stay behind Tanks and Warlocks on threat

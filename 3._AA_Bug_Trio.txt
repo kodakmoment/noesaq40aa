@@ -4,7 +4,6 @@ TANK ASSIGNMENT
 T1 -> Kri
 T3, T4 -> Yauj
 T2 -> Vem
-LoS bosses from each other to reduce bad stuff
 
 INTERRUPT ASSIGNMENT
 I1, I2, I3 -> Yauj
@@ -16,3 +15,4 @@ H5, H6 -> T2
 
 Kill order {Skull} -> {Cross} -> {Square}
 
+LoS bosses from each other to reduce bad stuff - Tremor and poison cleanse

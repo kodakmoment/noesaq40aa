@@ -6,4 +6,4 @@ T1 -> {Skull}
 HEAL ASSIGNMENTS
 H1, H2 -> T1
 
-Remember posion cleansing and gnpp
+Remember poison cleansing and GNPP
