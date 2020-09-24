@@ -1,0 +1,21 @@
+{Skull}The Prophet Skeram{Skull}
+
+TANK ASSIGNMENT
+T1, T2 Middle {Skull}
+T3, O1 Left
+T4, O2 Right
+
+INTERRUPT ASSIGNMENT
+I2, I6 -> Middle
+I1, I3 -> Left
+I4, I5 -> Right
+
+HEAL ASSIGNMENT
+H1, H2 -> T1
+H3 -> T2
+H4 -> T3
+H5 -> T4
+H6 -> O1
+H7 -> O2
+
+Melee take GAPP

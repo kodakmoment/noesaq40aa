@@ -1,0 +1,14 @@
+{Skull}{Cross}The Twin Emperors{Cross}{Skull}
+
+TANK ASSIGNMENT
+T1, S1 -> Vek'nilash side
+T2, S2 -> Vek'lor's side
+T3 -> Mutated Bugs in middle
+
+HEAL ASSIGNMENTS
+H1, H3, H5, H7, H9 -> Vek'nilash side
+H2, H4, H6, H8, H10 -> Vek'lor's side
+H9, H10 -> Raid heal if needed
+
+Dont be closer than tank on teleport
+Hunters don't FD near teleport
