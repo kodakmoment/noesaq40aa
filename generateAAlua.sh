@@ -1,7 +1,6 @@
 #!/bin/bash
 
 OUTPUTFILE=$1
-TEMPFILE=$(mktemp)
 
 read -r -d '' statetmpl <<- EOM
 AngryAssign_State = {
@@ -60,8 +59,7 @@ for group in ${a[@]}; do
     pageid=$(echo "$RANDOM$RANDOM$RANDOM" | cut -c 1-10)
     apageid+=($pageid)
     updated=$(date +%s)
-    sed -E ':a;N;$!ba;s/\r{0,1}\n/\\n/g' $file > $TEMPFILE
-    contents="$(cat $TEMPFILE)"
+    contents=$(sed -E ':a;N;$!ba;s/\r{0,1}\n/\\n/g' $file)
     categoryid=$groupid
     test=$(echo "$pagetmpl" | sed -e "s/PAGEID/$pageid/g" -e "s/NAME/$(basename $file)/" -e "s/UPDATED/$updated/" -e "s/CATEGORYID/$categoryid/")
     page="${test/\CONTENTS/$contents}"
