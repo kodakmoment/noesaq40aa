@@ -4,7 +4,7 @@ Firemaw:
 {Skull}T1{Skull} maintanks – all tanks use [Onyxia Scale Cloak]
 Taunt order if needed: {Cross}T2{Cross} -> {Square}T3{Square}
 
-- Taunt off "wingbuffet", 2 sec before cast.
+- Taunt off wingbuffet, 2 sec before cast.
 - Shadow Prot on all tanks
 - Maintank healers inside Firemaw room
 - Ranged, melee and other healers in Suppression Room
