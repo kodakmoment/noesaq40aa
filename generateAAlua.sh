@@ -61,7 +61,7 @@ for group in ${a[@]}; do
     updated=$(date +%s)
     contents=$(sed -E ':a;N;$!ba;s/\r{0,1}\n/\\n/g' $file)
     categoryid=$groupid
-    test=$(echo "$pagetmpl" | sed -e "s/PAGEID/$pageid/g" -e "s/NAME/$(basename $file)/" -e "s/UPDATED/$updated/" -e "s/CATEGORYID/$categoryid/")
+    test=$(echo "$pagetmpl" | sed -e "s/PAGEID/$pageid/g" -e "s/NAME/$(basename $file|sed 's/\.txt//')/" -e "s/UPDATED/$updated/" -e "s/CATEGORYID/$categoryid/")
     page="${test/\CONTENTS/$contents}"
     echo "$page" >> $OUTPUTFILE
   done
