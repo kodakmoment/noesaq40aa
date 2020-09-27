@@ -1,0 +1,24 @@
+{Skull}Ouro{Skull}
+
+Above Ground
+- Sweep (frontal cone cleave - high dmg knock back)
+- Sand Blast (high AOE dmg) immobilizes
+
+Underground
+- Adds appear when he dives underground (and maybe when he resurfaces!)
+- Quake (aoe dmg) - run away from the moving rock piles
+
+At 20% enrages (Will use both above ground and underground abilities and summon adds)
+
+Tactic:
+- T1 tanks him away from raid 
+- T2 and T3 stay melee when he uses Sweep
+- Melee out when he uses Sweep
+- Ranged stays max range
+- Healers stay further back (except those healing tanks and melee)
+- T2 will be target of Sand Blast T2 stay away from ppl (need to be second on threat) 
+- When underground move out of Quake 
+- Gather at {Square} when resurface AOE adds
+- At 20% nuke down (use CDs) be careful of all abilities
+
+HEALING: H1, H2, H3 on T1. H4 on T2/T3 for Sweep and Sand Blast. Rest raid heal 

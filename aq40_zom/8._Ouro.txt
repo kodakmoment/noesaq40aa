@@ -1,0 +1,14 @@
+{Skull}Ouro{Skull}
+
+TANK ASSIGNMENT
+T1 -> {Skull}
+T2, T3 -> {Skull} # Stay melee when he uses Sweep
+T4 -> Gather adds
+
+HEAL ASSIGNMENTS
+H1, H2, H3 -> T1
+H4,H5 -> T2, T3
+
+Remember enrage at 20%
+Melee out on Sweep
+DPS stay behind Tanks and Warlocks on threat

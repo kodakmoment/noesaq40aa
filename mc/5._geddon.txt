@@ -1,0 +1,7 @@
+Baron:
+
+{Triangle}H1{Triangle} pulls, 
+{Skull}T1{Skull} tanks, {Cross}T2{Cross} backup with taunts.
+Living Bomb runs to safe spot (melee by wall; ranged in tunnel)
+Melee out during Inferno
+Ranged LOS Ignite Mana

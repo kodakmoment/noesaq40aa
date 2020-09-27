@@ -1,0 +1,5 @@
+Trash no fire dmg:
+
+{skull}T1{skull}  
+{cross}T2{cross}
+Backup/safety: {square}T3{square}

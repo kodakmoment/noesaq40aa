@@ -1,0 +1,12 @@
+Tank Targets:
+
+1 - {Skull}T1{Skull}
+2 - {Cross}T2{Cross}
+3 - {Square}T3{Square}
+4 - {Star}T4{Star}
+5 - {Triangle}U1{Triangle}
+6 - {Moon}U2{Moon}
+7 - {Circle}O1{Circle} (if needed)
+
+Kill order: 
+{skull} -> {cross} -> {star} -> {square} -> {Circle} -> {triangle} -> {moon}

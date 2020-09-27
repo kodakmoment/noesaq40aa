@@ -1,0 +1,23 @@
+{Skull}The Prophet Skeram{Skull}
+
+Abilities:
+- Arcane Explosion (1 sec cast time)
+- Earth Shock (high Nature dmg spam) only casted if boss agro is on ranged player
+- True Fulfillment (Mind control that makes a player big + heavy hitting)
+- at 75%, 50% and 25%, the boss creates 2 low health versions of himself (same abilities)
+
+Tactic:
+**Ranged and Healers use a GNPP before fight**
+- Tanks and Melee on middle platform with Skeram
+- Ranged and Healers on the side platforms or up top
+- Locks use Curse of Tongues to slow Arcane Explosions
+- Interupt all Arcane Explosions
+- Keep tank threat high to avoid Earth Shocks - if Earth Shocked move to melee range til you lose aggro
+- Polymorph or Fear players who get mind controlled
+
+PHASE CHANGE
+- Before 75%, 50% and 25%, rogues and tanks should reposition to side platforms
+- 2 tanks per platform (cos risk of MC) - OTs take low hp boss copies (to avoid Earth Shocks)
+
+T1 Maintank - T2, T3, T4, O1 and O2 offtank
+H1, H2 heal T1 -- H3 heal T2 -- H4 heal T3 -- H5 heal T4 -- H6 heal O1 -- H7 heal O2
