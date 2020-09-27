@@ -1,0 +1,16 @@
+{Circle}Brainwasher Pack{Circle}
+
+**NB: packs may vary - Marks will be adjusted to kill order**
+
+1st target: {Skull}Qiraji Brainwasher{Skull}
+- Cause Insanity (10 second mind control)
+- Mana Burn (AOE drain, also does dmg)
+
+2nd target: {Cross}Vekniss Guardian{Cross}
+- Face against the wall to avoid knockback
+
+3rd target: {Square}Vekniss Warrior{Square}
+-  Summons Vekniss Borers when killed
+- AOE down the Vekniss Borers after these mobs die
+
+Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}

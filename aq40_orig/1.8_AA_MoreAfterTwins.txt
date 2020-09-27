@@ -1,0 +1,14 @@
+{Circle}More Trash after Twins{Circle}
+
+{star}Obsidian Nullifiers{star}
+- Drains raid's mana - Big AOE when mob reaches full mana
+- If you can't kill fast, drain mob's mana during the fight
+- Focus down one at a time - kill before Anubisath Warders
+
+{circle}Anubisath Warder{circle}
+Pull them away from the raid and kill after Nullifiers
+Possible abilities:
+- Root / Fear
+- Dust Cloud (Hit reduction) / Silence
+
+Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}

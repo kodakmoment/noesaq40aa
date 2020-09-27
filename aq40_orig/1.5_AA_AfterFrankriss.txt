@@ -1,0 +1,16 @@
+{Circle}Trash after Fankriss{Circle}
+
+**NB: packs may vary - Marks will be adjusted to kill order**
+
+{Skull}Qiraji Lasher{Skull}
+- Swaps Aggro randomly
+- Can't be stunned
+- T1 & T2 taunt rotate (+ others if needed)
+
+{Cross}Vekniss Wasp{Cross}
+- REMOVE POISON on Vekniss Catalyst - DoT, Slow and increased dmg from Vekniss Stinger Charge
+
+{Square}Vekniss Stinger{Square}
+- Charges random raiders, with massive damage increase if poisoned with Vekniss Catalyst
+
+Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}

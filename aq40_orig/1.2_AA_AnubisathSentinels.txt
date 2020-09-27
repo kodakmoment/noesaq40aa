@@ -1,0 +1,22 @@
+{Circle}Anubisath Sentinels{Circle}
+
+- These come in packs of 4
+- They each have 1 random ability:
+
+1. Heal over time
+2. Mana Burn
+3. Mortal Strike
+4. Tank Knockback
+5. Shadowbolt Volley (15 yard range)
+6. Reflect Shadow/Frost
+7. Reflect Fire/Arcane
+8. Thunderclap
+9. Thorns
+
+- Abilities transfer on death until 1 is left with all 4
+
+1. 1 tank per mob
+2. Detect magic on each mob
+3. Kill the mobs with easy abilites first
+
+Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}

@@ -1,0 +1,3 @@
+{Circle}Scarab Gauntlet{Circle}
+
+Move as one and follow {star}

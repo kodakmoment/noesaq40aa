@@ -1,0 +1,20 @@
+{Circle}Trash after Twins{Circle}
+
+**Pull these adds back into the Twins room**
+**NB: packs may vary - Marks will be adjusted to kill order**
+
+{Skull}Qiraji Mindslayer{Skull} - priority target
+- 10 sec MC
+- Mana Burn and AOE fear when killed - pull them away from raid when they die
+
+{cross}Qiraji Slayer{cross}
+- AOE Whirlwind
+- AOE silence from Frenzy - hunters Tranq and tanked far away from healers
+- Knockback and random aggro wipe
+
+{square}Qiraji Champion{square}
+- Knockback with aggro wipe
+- AOE Fear so tank away from raid
+- Enrage when low (can be dispelled/purged!)
+
+Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}

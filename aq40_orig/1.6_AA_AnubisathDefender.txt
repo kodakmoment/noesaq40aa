@@ -1,0 +1,12 @@
+{Circle}Anubisath Defender{Circle}
+
+4 possible abilities:
+- Meteor (AOE dmg) OR Plague DoT
+- Shadow Bolt Volley OR Thunderclap
+- Enrage OR Explode
+- Reflect Arcane+Fire OR Shadow+Frost
+
+Use DETECT MAGIC - Mage announce
+If Meteor: Melee and ranged stack in 2 groups
+If Plague: Run away when debuff hits
+If Explode: Run away at 20%
