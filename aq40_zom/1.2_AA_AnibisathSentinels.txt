@@ -12,4 +12,4 @@ H2 -> T2
 H3 -> T3
 H4 -> T4
 
-Kill order: {skull} -> {cross} -> {square} -> {star}
+Kill order: As announced on voice
