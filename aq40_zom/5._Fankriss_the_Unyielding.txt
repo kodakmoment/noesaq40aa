@@ -3,11 +3,9 @@
 TANK ASSIGNMENT
 T1, T2 -> {skull} # Tank rotation
 T3 -> {cross}
-T4 -> group up drones behind boss
 
 HEAL ASSIGNMENTS
 H1, H2 -> T1, T2
 H3 -> T3
-H4 -> T4
 
 Remember entangled players
