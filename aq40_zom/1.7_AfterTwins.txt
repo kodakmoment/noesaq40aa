@@ -8,7 +8,7 @@ T4 -> {square}
 O2 -> {star}
 
 HEAL ASSIGNMENT
-H1,H5 -> T1,O1
+H1, H5 -> T1, O1
 H2 -> T2
 H3 -> T3
 H4 -> T4
