@@ -24,7 +24,7 @@ H2 -> T2
 H3 -> T3
 H4 -> T4
 
-Kill order: {skull} -> {cross} -> {square} -> {star}
+Kill order: As announced on voice
 
 ---------------------
 
@@ -36,7 +36,7 @@ T2 -> {cross}
 T3 -> {square}
 T4 -> {star}
 O1 -> {Circle}
-O2 -> {moon}
+O2 -> Ready to pick up {skull} or {cross}
 
 HEAL ASSIGNMENT
 H1 -> T1
@@ -46,34 +46,34 @@ H4 -> T4
 H5 -> O1
 H6 -> O2
 
-Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}
+Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle}
 
 ---------------------
 
 {Circle}Scarab Gauntlet{Circle}
 
 Move as one and follow {star}
+Don't put totems!
 
 ---------------------
 
 {Circle}Trash after Fankriss{Circle}
 
 TANK ASSIGNMENT
-T1, T2 -> {Skull}
-T3 -> {Cross}
-T4 -> {Square}
-O1 -> {star}
-O2 -> {Circle}
+T2 -> {Skull}
+T1, T4, O1 -> {Cross}
+T3 -> {Square}
+O2 -> {star}
 
 HEAL ASSIGNMENT
-H1 -> T1
+H1, H4, H5 -> T1, T4, O1
 H2 -> T2
 H3 -> T3
 H4 -> T4
 H5 -> O1
 H6 -> O2
 
-Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}
+Kill order: {skull} -> {cross} -> {square} -> {star}
 
 ---------------------
 
@@ -93,18 +93,17 @@ Ranged stack on {moon}
 {Circle}Trash after Twins{Circle}
 
 TANK ASSIGNMENT
-T1, O1 -> {square}
-T2 -> {cross}
-T3 -> {Skull}
-T4 -> {star}
-O2 -> {Circle}
+T1, O1 -> {circle}
+T2 -> {skull}
+T3 -> {cross}
+T4 -> {square}
+O2 -> {star}
 
 HEAL ASSIGNMENT
-H1 -> T1
+H1, H5 -> T1, O1
 H2 -> T2
 H3 -> T3
 H4 -> T4
-H5 -> O1
 H6 -> O2
 
 Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle}
