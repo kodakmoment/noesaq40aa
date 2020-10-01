@@ -1,12 +1,12 @@
 {Skull}{Cross}{Square}Bug Trio{Square}{Cross}{Skull}
 
 TANK ASSIGNMENT
-T1 -> Kri
-T3, T4 -> Yauj
-T2 -> Vem
+T1 -> Vem
+T2, T4 -> Yauj
+T3 -> Kri
 
 INTERRUPT ASSIGNMENT
-I1, I2, I3 -> Yauj
+I1, I3, I4 -> Yauj
 
 HEALING ASSIGNMENT
 H1, H2 -> T1
@@ -15,4 +15,5 @@ H5, H6 -> T2
 
 Kill order {Skull} -> {Cross} -> {Square}
 
-LoS bosses from each other to reduce bad stuff - Tremor and poison cleanse
+Tremor and poison cleanse
+Enrage after second bug dead
