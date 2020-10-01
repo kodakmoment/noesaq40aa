@@ -1,0 +1,9 @@
+Trash:
+
+{Skull}T1{Skull} – Drakonid – avoid AOE when tank spins
+{Square}T3{Square} - Backup
+{Cross}T2{Cross} – Drakonid – avoid AOE when tank spins
+{Star}T4{Star} - Backup
+{Moon}U1{Moon} – Kite as far as possible
+
+- Burn down the little guy; Careful not to rip due to Vulnerability

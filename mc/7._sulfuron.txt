@@ -1,0 +1,8 @@
+Sulfuron:
+
+Cleave them all down; Dispel debuff on MT
+1 - {Skull}T1{Skull} - Boss
+2 - {Cross}T2{Cross} R1 & W5 interrupts {Cross}
+3 - {Square}T3{Square} R2 & W3 interrupts {Square}
+4 - {Star}W2{Star} R3 & W4 interrupts {Star}
+5 - {Circle}W1{Circle} R4 & R5 interrupts {Circle}

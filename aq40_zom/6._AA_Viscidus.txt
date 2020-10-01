@@ -1,9 +1,0 @@
-{Skull}Viscidus{Skull}
-
-TANK ASSIGNMENT
-T1 -> {Skull}
-
-HEAL ASSIGNMENTS
-H1, H2 -> T1
-
-Remember poison cleansing and GNPP

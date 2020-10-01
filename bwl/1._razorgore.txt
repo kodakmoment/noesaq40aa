@@ -1,0 +1,12 @@
+Razorgore Phase 1:
+
+{Diamond}U1{Diamond}does MC ({Triangle}U2{Triangle} and {Moon}L2{Moon} on backup)
+- Groups 1, 3, 5, 7 far; {Skull}T1{Skull} and {Cross}T2{Cross} tank 
+- Groups 2, 4, 6, 8 near; {Square}T3{Square} and {Star}W1{Star} tank
+
+
+Razorgore Phase 2:
+
+{Skull}T1{Skull} Maintanks just out from far side
+- LOS Fireball Volley behind platform in phase 2
+- Watch aggro after Conflagration; Don’t rush into next room!

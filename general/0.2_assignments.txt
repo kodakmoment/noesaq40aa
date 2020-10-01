@@ -1,0 +1,35 @@
+{Skull}{Cross} Good evening everyone and Welcome to NOES Raid {Circle}{Diamond}
+
+{Square}{Star} Raid assignments {Triangle}{Moon}
+
+TANK 1 (T1): Fesken {Skull}
+TANK 2 (T2): Xiaorick {Cross}
+TANK 3 (T3): Kjettaren {Square}
+TANK 4 (T4):  Peachass {Star}
+OFFTANK 1 (O1): Papirpose {Circle}
+OFFTANK 2 (O2): Doro {Moon}
+HUNTER 1 (U1): Impunity
+HUNTER 2 (U2): Sosialgamer
+HUNTER 3 (U3): Zeeq
+WARLOCK 1 (L1): Specimen
+WARLOCK 2 (L2): Miske
+INTERRUPTOR 1 (I1): Ruffwaag
+INTERRUPTOR 2 (I2): Zyph
+INTERRUPTOR 3 (I3): Zhazo
+INTERRUPTOR 4 (I4): Sneakyboner
+INTERRUPTOR 5 (I5): Saphon
+INTERRUPTOR 6 (I6): Ampier
+HEALER 1 (H1): Doomslug
+HEALER 2 (H2): Lefty
+HEALER 3 (H3): Dis
+HEALER 4 (H4): Netcode
+HEALER 5 (H5): Tardo
+HEALER 6 (H6): Leviate
+HEALER 7 (H7): Zomania
+HEALER 8 (H8): Whey
+HEALER 9 (H9): Chromo
+HEALER 10 (H10): Grimmly
+HEALER 11 (H11): Highheals
+
+Kill order: 
+{skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}

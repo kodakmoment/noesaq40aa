@@ -1,0 +1,12 @@
+Trash:
+
+1 - {Skull}T1{Skull} - Warlock
+2 - {Cross}T2{Cross} - Warlock
+3 - {Square}T3{Square} - Drakonid - tank out of raid (ranged)
+4 - {Star}T4{Star} - Spellbinder - tank out of raid (melee)
+7 - {Circle}O1{Circle} - Spellbinder - if needed
+
+- CASTERS Aoe the goblins, at los points.
+
+Kill order: 
+{skull} -> {cross} -> {star} MELEE -> {circle} MELEE -> {square} CASTERS

@@ -1,0 +1,11 @@
+Majordomo: 
+
+T3 tanks boss, cleave down 1-4, then cleave down 5-8
+1 - {Skull}T1{Skull}
+2 - {Cross}T2{Cross}
+3 - {Square}W2{Square}
+4 - {Star}W1{Star}
+5 - {Triangle}M1{Triangle} T1 tanks p2 {Triangle}
+6 - {Moon}M2{Moon} T2 tanks p2 {Moon}
+7 - {Circle}M3{Circle} W2 tanks p2 {Circle}
+8 – {Diamond}M4{Diamond} W1 tanks p2 {Diamond}

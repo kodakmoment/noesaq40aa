@@ -1,0 +1,11 @@
+Broodlord:
+
+{cross}T2{cross} pulls, positions, and tanks first
+{Skull}T1{Skull} and {Square}T3{Square} fight for threat!
+
+- Ranged by wall past door - AOE adds first
+- Careful on threat (reset on knockback)
+- Big Heals on tank during Mortal Strike
+- Get to tank position if you get aggro
+- No curse of recklessness or anything that buffs his AP.
+- use ANYTHING that reducses hi AP.

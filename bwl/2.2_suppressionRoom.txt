@@ -1,0 +1,7 @@
+Suppression Room:
+
+{Triangle}H1{Triangle} pulls, {Skull}T1{Skull} tanks dragonkin.
+{Cross}T2{Cross}  and {Square}T3{Square} pick up dragonlings
+- ROGUES desuppress traps
+- AOE when 2 or more groups
+- Move when RL says to move, otherwise we’re pulling to us

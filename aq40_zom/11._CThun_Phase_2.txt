@@ -1,0 +1,22 @@
+{Skull}C'thun Phase 2{Skull}
+
+- Summon GIANT Eye Tentacles with GREEN BEAM - STUNNABLE/INTERUPTABLE
+- Summon SMALL Eye Tentacles (8x every 30 sec - Mind flay random targets) - Always first prio target
+- Summon GIANT Claw Tentacles - 1-shots non-tanks within melee range
+- Small Claw Tentacles too?
+
+- C'thun virtually immune to dmg from outside during this phase until shield taken down through stomach
+
+7. Everyone collapse to near entrance to control Giant Claw spawn - tanks grab it
+8. Stay spread out. Kill prio Small Eye near you -> Large Eye -> Small Eye further away -> Large Claw -> Small Claw
+9. Stun and interupt Small & Large Eye Tentacles and kill them fast
+10. Players will get pulled inside C'thun's stomach every 10 sec - use teleport pad to get out:
+- Tanks come out immediately on teleport pad
+- Healers top off anyone down there then come out
+- Melee careful of stacks and acid - dps tentacles til you can't - use GNPP
+- Ranged careful of stacks - dps tentacles til you can't - use GNPP
+11. When both tentacles in stomach are down, C'thun's shield lowers
+12. ANNOUNCE when tentacles in stomach are low - sunders and debuffs up on C'thun at this time
+13. When shield lowers (C'thun turns purple) GO ALL OUT FOR 45 SEC
+
+HEALING: Big heals on tanks when GIANT Claw Tentacles spawn - prio people with debuffs coming out of stomach
