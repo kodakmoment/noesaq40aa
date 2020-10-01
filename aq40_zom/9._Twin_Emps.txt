@@ -1,9 +1,9 @@
 {Skull}{Cross}The Twin Emperors{Cross}{Skull}
 
 TANK ASSIGNMENT
-T1, S1 -> Vek'nilash side
-T2, S2 -> Vek'lor's side
-T3 -> Mutated Bugs in middle
+T2, L2 -> Vek'nilash side
+T3, L1 -> Vek'lor's side
+T1, T4 -> Mutated Bugs in middle
 
 HEAL ASSIGNMENTS
 H1, H3, H5, H7, H9 -> Vek'nilash side
