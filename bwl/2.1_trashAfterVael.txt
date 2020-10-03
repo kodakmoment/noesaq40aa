@@ -1,12 +1,20 @@
-Tank Targets:
+{Star}Trash After Vael{star}
 
-1 - {Skull}T1{Skull}
-2 - {Cross}T2{Cross}
-3 - {Square}T3{Square}
-4 - {Star}T4{Star}
-5 - {Triangle}U1{Triangle}
-6 - {Moon}U2{Moon}
-7 - {Circle}O1{Circle} (if needed)
+TANKING
+{Skull}T1{Skull}
+{Cross}T2{Cross}
+{Square}T3{Square}
+{Star}T4{Star}
+{Triangle}U1{Triangle}
+{Moon}U2{Moon}
+{Circle}O1{Circle} (if needed)
+
+HEALING
+H1 -> T1
+H2 -> T2
+H3 -> T3
+H4 -> T4
+H5 -> O1
 
 Kill order: 
 {skull} -> {cross} -> {star} -> {square} -> {Circle} -> {triangle} -> {moon}

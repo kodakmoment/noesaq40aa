@@ -1,14 +1,22 @@
-Chromaggus:
+{Star}Chromaggus{Star}
 
-{Skull}T1{Skull} maintanks in doorway with {Diamond}L1{Diamond} Summon pull
-- U1 hands out dusts to tanks, 2 healers, all hunters
-Hunter Tranqs: {Moon}U2{Moon} then {Triangle}U3{Triangle}
-- Melee in corner behind Chrom – LOS in sweet spot
-- Ranged/healers in Flamegor room – LOS by wall
+TANKING
+T1 -> {Skull}
 
-- LOS all breaths EXCEPT TIME LAPSE (offtanks and ZOM / DOOM dodge Time Lapse)
+HEALING
+H1, H3, H6, H7 - T1
 
-BREATHS: R=Fire; G=Dot&-armor; Bla=Stacking Dot; Blu=-Atkspd; Br=Stun&-Threat
+HUNTER TRANQ
+U2 -> U3
 
-- Affliction Debuffs: Dispels and Curses ASAP
+TIMELAPSE LOS
+T2, H7, H1
+
+BREATHS
+Red=Fire dmg
+Green=Dot&-armor
+Black=Stacking Dot
+Blue=-Atkspd
+Bronze=Stun&-Threat
+
 - Save CDs for enrage phase

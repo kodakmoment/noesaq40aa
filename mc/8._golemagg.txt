@@ -1,7 +1,5 @@
-Golemagg:
+Golemagg
 
-{skull}T1{skull} and {Square}T2{Square} tank BOSS where he is
- – {Triangle}H1{Triangle} pulls 
- – {Diamond}FE{Diamond} pulls
-{Cross}FE{Cross} tanks {Triangle} and {Diamond} up hill
-Melee stop attacking at 6 stacks
+TANKING
+T1, T2 -> Boss #tank rotation
+T3 -> {Triangle}, {Diamond} up hill

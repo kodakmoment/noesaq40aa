@@ -1,7 +1,9 @@
-Lucifron:
+{Star}Lucifron{Star}
+
+TANKING
+{Skull}T1{Skull} - Boss
+{Cross}T2{Cross} - Add
+{Square}T3{Square} – Add
 
 Shadow Protection on ALL
 Prioritise Dispell/decurse. Cleave all 3.
-1 - {Skull}FE{Skull} - Boss
-2 - {Cross}T2{Cross} - Add
-3 - {Square}T3{Square} – Add

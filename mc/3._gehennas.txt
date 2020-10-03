@@ -1,7 +1,10 @@
-Gehennas:
+{Star}Gehennas{Star}
 
-{Triangle}H1{Triangle} pulls
+{Triangle}U1{Triangle} pulls
+
+TANKING
+{Skull}T1{Skull} - Boss
+{Cross}T2{Cross} - Add
+{Square}T3{Square} – Add
+
 Melee FAP on engage, Cleave all 3 down
-1 - {Skull}T1{Skull} - Boss
-2 - {Cross}T2{Cross} - Add
-3 - {Square}T3{Square} – Add

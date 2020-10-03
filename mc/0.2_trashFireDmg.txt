@@ -1,6 +1,0 @@
-Trash fire dmg:
-
-{skull}T1{skull} <-- Firewalker
-{cross}T2{cross} <-- Flameguard
-{triangle}L1{triangle} <-- Banish
-{diamond}L2{diamond} <-- Banish

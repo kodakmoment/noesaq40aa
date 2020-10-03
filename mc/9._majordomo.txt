@@ -1,11 +1,23 @@
-Majordomo: 
+Majordomo
 
-T3 tanks boss, cleave down 1-4, then cleave down 5-8
-1 - {Skull}T1{Skull}
-2 - {Cross}T2{Cross}
-3 - {Square}W2{Square}
-4 - {Star}W1{Star}
-5 - {Triangle}M1{Triangle} T1 tanks p2 {Triangle}
-6 - {Moon}M2{Moon} T2 tanks p2 {Moon}
-7 - {Circle}M3{Circle} W2 tanks p2 {Circle}
-8 – {Diamond}M4{Diamond} W1 tanks p2 {Diamond}
+TANKING
+T3 -> BOSS
+T1 -> {Skull} -> {Triangle}
+T2 -> {Cross} -> {Moon}
+T4 -> {Square} -> {Circle}
+O1 -> {Star} -> {Diamond}
+
+HEALING
+H1 -> T1
+H2 -> T2
+H7 -> T3
+H3 -> T4
+H4 -> O1
+
+SHEEPS
+M1 -> {Triangle}
+M2 -> {Moon}
+M3 -> {Circle}
+M4 -> {Diamond}
+
+cleave down 4 by 4

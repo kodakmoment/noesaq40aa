@@ -1,6 +1,0 @@
-MC Tank targets:
-
-{skull}T1{skull}  
-{cross}T2{cross}
-{Square}T3{Square}
-{Star}W1{Star}

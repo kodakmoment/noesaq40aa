@@ -1,0 +1,17 @@
+Trash
+
+TANKS
+{skull}T1{skull}  
+{cross}T2{cross}
+{Square}T3{Square}
+{Star}T4{Star}
+
+BANISH
+{triangle}L1{triangle}
+{diamond}L2{diamond}
+
+HEALING
+H1 -> T1
+H2 -> T2
+H3 -> T3
+H4 -> T4

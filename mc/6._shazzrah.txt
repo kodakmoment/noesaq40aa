@@ -1,5 +1,8 @@
-Shazzrah:
+{Star}Shazzrah{Star}
 
-Half circle for ranged/healers
-Melee in middle with tanks, use restorative potion
-Tanks taunt rotation: {Cross}T2{Cross} then {Skull}FE{Skull} then {Square}T3{Square} then {Star}T1{Star}
+TAUNT ROTATION
+T2 -> T3 -> T4 -> T1
+
+Half circle around boss for ranged/healers
+Melee in middle with tanks
+use restorative potion

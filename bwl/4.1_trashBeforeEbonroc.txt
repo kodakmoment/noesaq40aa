@@ -1,9 +1,20 @@
-Trash:
+Trash Before Ebonroc
 
-{Skull}T1{Skull} – Drakonid – avoid AOE when tank spins
-{Square}T3{Square} - Backup
-{Cross}T2{Cross} – Drakonid – avoid AOE when tank spins
-{Star}T4{Star} - Backup
-{Moon}U1{Moon} – Kite as far as possible
+TANKING
+T1 -> {Skull}
+T3 -> {Square}
+T2 -> {Cross}
+T4 -> {Star}
 
-- Burn down the little guy; Careful not to rip due to Vulnerability
+KITEING
+U1 -> {Moon}
+
+HEALING
+H1 -> T1
+H2 -> T2
+H3 -> T3
+H4 -> T4
+
+- Burn down the little guy
+- Avoid AOE when tank spins
+- Bear doesn't show spin animation!

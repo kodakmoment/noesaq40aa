@@ -1,7 +1,12 @@
-Magmadar:
+{Star}Magmadar{Star}
 
-{Skull}T1{Skull} Tanks to right , {Cross}T2{Cross} backup.
+TANKING
+{Skull}T1{Skull} Tanks to right
+{Cross}T2{Cross} backup.
+
+HUNTER TRANQ
+{Moon}H1{Moon} then {Triangle}H2{Triangle}
+
 Shamans: Tremor Totem
-Hunter Tranqs: {Moon}H1{Moon} then {Triangle}H2{Triangle}
 Healers/casters max range
 Don't stand in fire!

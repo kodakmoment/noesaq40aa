@@ -1,8 +1,13 @@
 Vaelastrasz:
 
+TANKING
 {Skull}T1{Skull} maintanks first
 {Cross}T2{Cross} and {Star}T3{Star} OTs
-- Max rank heals; Priests Prayer of Healing
+
+HEALING
+Shamans -> T1, T2, T3
+Druids, Priests -> Raid heal
+
 - Mellee on back legg.
 - Watch threat but go all out
 - GET OUT to column on left if you get Burning Adrenaline
