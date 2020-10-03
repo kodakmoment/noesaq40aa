@@ -24,7 +24,7 @@
 
 ## AQ40 zom
 
-* 1 [Trash](aq40_zom/1._Trash.txt)
+* 0.1 [Trash](aq40_zom/0.1_TrashFull.txt)
 * 1.1 [Obsidian Eradicator](aq40_zom/1.1_ObsidianEradicator.txt)
 * 1.2 [Anubisath Sentinels](aq40_zom/1.2_AnibisathSentinels.txt)
 * 1.3 [Brainwasher Packs](aq40_zom/1.3_BrainwasherPacks.txt)
@@ -61,9 +61,7 @@
 
 ## MC
 
-* 0.1 [Tank targets](mc/0.1_tankTargets.txt)
-* 0.2 [Trash firedamage](mc/0.2_trashFireDmg.txt)
-* 0.3 [Trash NO firedamage](mc/0.3_trashNoFireDmg.txt)
+* 0.1 [Trash](mc/0.1_Trash.txt)
 * 1 [Lucifron](mc/1._lucifron.txt)
 * 2 [Magmadar](mc/2._magmadar.txt)
 * 3 [Gehennas](mc/3._gehennas.txt)
@@ -73,7 +71,7 @@
 * 7 [Sulfuron](mc/7._sulfuron.txt)
 * 8 [Golemagg](mc/8._golemagg.txt)
 * 9 [Majordomo](mc/9._majordomo.txt)
-* 9.2 [Ragnaros](mc/9.2_ragnaros.txt)
+* 10 [Ragnaros](mc/10_ragnaros.txt)
 
 ## General
 
