@@ -33,14 +33,14 @@
 * 0.7 [Anubisath Defender](aq40_zom/0.7_AnubisathDefender.txt)
 * 0.8 [After Twins](aq40_zom/0.8_AfterTwins.txt)
 * 0.9 [More After Twins](aq40_zom/0.9_MoreAfterTwins.txt)
-* 1 [Skeram](aq40_zom/1._The_Prophet_Skeram.txt)
+* 1 [Skeram](aq40_zom/1._Skeram.txt)
 * 2 [Bug Trio](aq40_zom/2._Bug_Trio.txt)
-* 3 [Sartura](aq40_zom/3._Battleguard_Sartura.txt)
-* 4 [Frankriss](aq40_zom/4._Fankriss_the_Unyielding.txt)
+* 3 [Sartura](aq40_zom/3._Sartura.txt)
+* 4 [Frankriss](aq40_zom/4._Fankriss.txt)
 * 5 [Viscidus](aq40_zom/5._Viscidus.txt)
 * 6 [Huhuran](aq40_zom/6._Huhuran.txt)
 * 7 [Ouru](aq40_zom/7._Ouro.txt)
-* 8 [Twin Emps](aq40_zom/8._Twin_Emps.txt)
+* 8 [Twin Emps](aq40_zom/8._TwinEmps.txt)
 * 9 [CThun P1](aq40_zom/9._CThun.txt)
 
 ## BWL
