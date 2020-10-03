@@ -1,0 +1,5 @@
+{Triangle}{Triangle}{Triangle} Welcome to NOES Raid {Triangle}{Triangle} {Triangle}
+
+{Star}{Star}{Star} We'll get started soon {Star}{Star}{Star}
+
+{Circle}{Circle}{Circle} #raid-assignments @Discord {Circle}{Circle}{Circle}

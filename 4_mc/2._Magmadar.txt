@@ -5,7 +5,7 @@ T1 -> {Skull}
 T2 -> Backup
 
 HUNTER TRANQ
-H2 -> H3
+U2 -> U3
 
 Shamans: Tremor Totem
 Healers/casters max range
