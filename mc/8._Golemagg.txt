@@ -1,5 +1,7 @@
 Golemagg
 
 TANKING
-T1, T2 -> Boss #tank rotation
-T3 -> {Triangle}, {Diamond} up hill
+T1, T2 -> Boss
+T3 -> {Triangle} + {Diamond}
+
+Tank Adds away from Boss!

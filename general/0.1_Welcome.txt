@@ -1,5 +1,5 @@
-{Triangle}{Triangle} Good evening everyone and Welcome to NOES Raid {Triangle}{Triangle} 
+{Triangle}{Triangle} Welcome to NOES Raid {Triangle}{Triangle} 
 
-We'll get started soon
+{Star}{Star}{Star}We'll get started soon{Star}{Star}{Star}
 
 Assignments are in #raid-assignments

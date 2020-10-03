@@ -1,13 +1,16 @@
 {Star}Trash After Vael{star}
 
 TANKING
-{Skull}T1{Skull}
-{Cross}T2{Cross}
-{Square}T3{Square}
-{Star}T4{Star}
-{Triangle}U1{Triangle}
-{Moon}U2{Moon}
-{Circle}O1{Circle} (if needed)
+T1 -> {Skull}
+T2 -> {Cross}
+T3 -> {Square}
+T4 -> {Star}
+O1 -> {Circle} (if needed)
+
+HUNTER KITE
+U1 -> {Triangle}
+U2 -> {Moon}
+
 
 HEALING
 H1 -> T1

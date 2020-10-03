@@ -1,9 +1,8 @@
-Garr
+{Cross}Garr{Cross}
 
 TANKING
-{Cross}T2{Cross} tanks boss where is is
-{Skull}T1{Skull} pulls and tanks all adds by the wall
-{Square}T3{Square} picks up loose adds
+T2 -> {Cross}
+T1 -> Adds
 
 HEALING
 H1, H2, H3, H4, H5, H6, H8 -> T1

@@ -1,8 +1,7 @@
 {Star}Ebonroc{Star}
 
-T1 Pulls and starts
-T2, T3 Assists with taunt rotation
-Form a triangle in corner by ramp
+TANKING
+T1 -> Starts
+T2, T3 -> Taunt rotation
 
-- Tanks use [Onyxia Scale Cloak]!
-- Tanks taunt off the heal debuff and wing buffet
+Tanks use [Onyxia Scale Cloak]!

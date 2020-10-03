@@ -11,7 +11,7 @@ U1 pulls
 HEALING
 H1 -> U1 if needed
 
-- ROGUES desuppress traps
-- AOE when 2 or more groups
-- Move when RL says to move
-- Stay grouped!
+ROGUES desuppress traps
+AOE when 2 or more groups
+Move when RL says to move
+Stay grouped!

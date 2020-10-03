@@ -1,17 +1,17 @@
 Sulfuron
 
 TANKING
-{Skull}T1{Skull} - Boss
-{Cross}T2{Cross} 
-{Square}T3{Square} 
-{Star}T4{Star} 
-{Circle}O1{Circle} 
+T1 -> {Skull}
+T2 -> {Cross} 
+T3 -> {Square} 
+T4 -> {Star} 
+O1 -> {Circle} 
 
 INTERRUPTS
-I1, I5 {Cross}
-I2, I6 {Square}
-I3, I7 {Star}
-I4, I8 {Circle}
+I1, I5 -> {Cross}
+I2, I6 -> {Square}
+I3, I7 -> {Star}
+I4, I8 -> {Circle}
 
 Cleave them all down
 Dispel debuff on MT

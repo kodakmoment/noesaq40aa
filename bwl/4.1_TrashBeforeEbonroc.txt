@@ -15,6 +15,6 @@ H2 -> T2
 H3 -> T3
 H4 -> T4
 
-- Burn down the little guy
-- Avoid AOE when tank spins
-- Bear doesn't show spin animation!
+Burn down the little guy
+Avoid AOE when tank spins
+Bear doesn't show spin animation!

@@ -1,11 +1,10 @@
 {Star}Flamegor{Star}
 
 TANKING
-T1 Pulls and starts
-T2, T3 Assists with taunt rotation
-Form a triangle in corner by ramp
+T1 -> Starts
+T2, T3 -> Taunt rotation
 
 HUNTER TRANQ
 U1 -> U2 -> U3
 
-- Tanks use [Onyxia Scale Cloak]!
+Tanks use [Onyxia Scale Cloak]!

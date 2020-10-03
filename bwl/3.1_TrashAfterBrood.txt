@@ -1,11 +1,11 @@
 Trash After Broodlord
 
 TANKING
-{Skull}T1{Skull} - Warlock
-{Cross}T2{Cross} - Warlock
-{Square}T3{Square} - Drakonid - tank out of raid (ranged)
-{Star}T4{Star} - Spellbinder - tank out of raid (melee)
-{Circle}O1{Circle} - Spellbinder - if needed
+T1 -> {Skull}
+T2 -> {Cross}
+T3 -> {Square}
+T4 -> {Star}
+O1 -> {Circle}
 
 HEALING
 H1 -> T1
@@ -14,7 +14,7 @@ H3 -> T3
 H4 -> T4
 H5 -> O1
 
-- CASTERS Aoe the goblins, at los points.
+CASTERS Aoe the goblins, at los points.
 
 Kill order: 
 {skull} -> {cross} -> {star} MELEE -> {circle} MELEE -> {square} CASTERS

@@ -1,11 +1,11 @@
-{Star}Magmadar{Star}
+{Skull}Magmadar{Skull}
 
 TANKING
-{Skull}T1{Skull} Tanks to right
-{Cross}T2{Cross} backup.
+T1 -> {Skull}
+T2 -> Backup
 
 HUNTER TRANQ
-{Moon}H1{Moon} then {Triangle}H2{Triangle}
+H2 -> H3
 
 Shamans: Tremor Totem
 Healers/casters max range

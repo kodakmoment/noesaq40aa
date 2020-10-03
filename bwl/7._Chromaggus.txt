@@ -13,10 +13,10 @@ TIMELAPSE LOS
 T2, H7, H1
 
 BREATHS
-Red=Fire dmg
-Green=Dot&-armor
-Black=Stacking Dot
-Blue=-Atkspd
-Bronze=Stun&-Threat
+Red: Fire dmg
+Green: Dot&-armor
+Black: Stacking Dot
+Blue: -Atkspd
+Bronze: Stun&-Threat
 
-- Save CDs for enrage phase
+Save CDs for enrage at 20%

@@ -1,35 +1,35 @@
-{Skull}{Cross} Good evening everyone and Welcome to NOES Raid {Circle}{Diamond}
+{Skull}{Cross} Welcome to NOES Raid {Circle}{Diamond}
 
 {Square}{Star} Raid assignments {Triangle}{Moon}
 
-TANK 1 (T1): Fesken {Skull}
-TANK 2 (T2): Xiaorick {Cross}
-TANK 3 (T3): Kjettaren {Square}
-TANK 4 (T4):  Peachass {Star}
-OFFTANK 1 (O1): Papirpose {Circle}
-OFFTANK 2 (O2): Doro {Moon}
-HUNTER 1 (U1): Impunity
-HUNTER 2 (U2): Sosialgamer
-HUNTER 3 (U3): Zeeq
-WARLOCK 1 (L1): Specimen
-WARLOCK 2 (L2): Miske
-INTERRUPTOR 1 (I1): Ruffwaag
-INTERRUPTOR 2 (I2): Zyph
-INTERRUPTOR 3 (I3): Zhazo
-INTERRUPTOR 4 (I4): Sneakyboner
-INTERRUPTOR 5 (I5): Saphon
-INTERRUPTOR 6 (I6): Ampier
-HEALER 1 (H1): Doomslug
-HEALER 2 (H2): Lefty
-HEALER 3 (H3): Dis
-HEALER 4 (H4): Netcode
-HEALER 5 (H5): Tardo
-HEALER 6 (H6): Leviate
-HEALER 7 (H7): Zomania
-HEALER 8 (H8): Whey
-HEALER 9 (H9): Chromo
-HEALER 10 (H10): Grimmly
-HEALER 11 (H11): Highheals
+TANK 1 (T1):  {Skull}
+TANK 2 (T2):  {Cross}
+TANK 3 (T3):  {Square}
+TANK 4 (T4):   {Star}
+OFFTANK 1 (O1):  {Circle}
+OFFTANK 2 (O2):  {Moon}
+HUNTER 1 (U1): 
+HUNTER 2 (U2): 
+HUNTER 3 (U3): 
+WARLOCK 1 (L1): 
+WARLOCK 2 (L2): 
+INTERRUPTOR 1 (I1): 
+INTERRUPTOR 2 (I2): 
+INTERRUPTOR 3 (I3): 
+INTERRUPTOR 4 (I4): 
+INTERRUPTOR 5 (I5): 
+INTERRUPTOR 6 (I6): 
+HEALER 1 (H1): 
+HEALER 2 (H2): 
+HEALER 3 (H3): 
+HEALER 4 (H4): 
+HEALER 5 (H5): 
+HEALER 6 (H6): 
+HEALER 7 (H7): 
+HEALER 8 (H8): 
+HEALER 9 (H9): 
+HEALER 10 (H10): 
+HEALER 11 (H11): 
 
 Kill order: 
 {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}
