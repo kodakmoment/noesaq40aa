@@ -12,5 +12,3 @@
 3rd target: {Square}Vekniss Warrior{Square}
 -  Summons Vekniss Borers when killed
 - AOE down the Vekniss Borers after these mobs die
-
-Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}

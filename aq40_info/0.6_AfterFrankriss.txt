@@ -12,5 +12,3 @@
 
 {Square}Vekniss Stinger{Square}
 - Charges random raiders, with massive damage increase if poisoned with Vekniss Catalyst
-
-Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}

@@ -1,0 +1,7 @@
+{Circle}Obsidian Eradicator{Circle}
+
+- Drains raid's mana
+- Big AOE when mob reaches full mana
+
+1. Kill fast.
+2. If you can't kill fast, drain mob's mana during the fight

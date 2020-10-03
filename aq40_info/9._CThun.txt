@@ -1,3 +1,20 @@
+{Skull}C'Thun Phase 1{Skull}
+
+- Eye Beam every 3 seconds (GREEN BEAM) on random player, chains to others within 10 yards and INCREASES dmg each chain
+- Dark Glare (RED BEAM) - some red cloud gfx beforehand - instant-kill to anyone that touches it. WHOLE raid must rotate with it
+- Summon SMALL Eye Tentacles (8x every 45 sec - Mind flay random targets) - Always first prio target
+- Summon Claw Tentacle (under random players, knocking them up) - can hamstring so need to be focused down
+
+Pop a Greater Shadow AND Greater Nature
+1. Face the wall to left of entrance and mount up
+2. U1 (high NR hunter) will run in first to soak GREEN BEAM
+3. Raid move to Phase 1 positions when 1st Beam ends.
+4. RED BEAM will force the raid to rotate 180 degrees around C'thun
+5. Tanks grab Claw Tentacles
+6. Raid dps Eye of C'thun when possible to reach Phase 2
+
+HEALING: Each Healer heals their group then others nearby
+
 {Skull}C'thun Phase 2{Skull}
 
 - Summon GIANT Eye Tentacles with GREEN BEAM - STUNNABLE/INTERUPTABLE

@@ -14,9 +14,3 @@ Abilities:
 **All pop GNPP when she enrages
 
 Ranged dps spread out to avoid Noxious Poison spreading
-
-T1 tanks - Tank swap to T2 when Acid Spit stacks get too high
-
-HEALING: H1, H2, H3 on T1/T2. Rest raid heal - after Enrage all non-tank healers focus soakers.
-
-Tranq rotation: U2 -> U3 -> U1

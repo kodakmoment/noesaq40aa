@@ -10,7 +10,7 @@ Phase 2: Split into 20 Blobs
 - Each blob has 10k hp (around 5% of total HP)
 - Will move to center to reform to Phase 1 again
 
-Tactic (T1 tanks):
+Tactic:
 **use a GNPP before fight**
 - Mages use RANK 1 Frostbolts 
 - Physical DPS use weapons with frost procs + Frost Oil
@@ -18,5 +18,3 @@ Tactic (T1 tanks):
 - Phase 2 Kill blobs max dmg (hunters and casters slow the slimes)
 - AOE as they get central (Sappers are great!)
 - Phase 1 again POP new GNPP if needed
-
-HEALING: H1 & H2 heal T1 -- Rest on raid and poison cleansing

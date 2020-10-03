@@ -6,8 +6,6 @@
 1. Kill fast.
 2. If you can't kill fast, drain mob's mana during the fight
 
-Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}
-
 ---------------------
 
 {Circle}Anubisath Sentinels{Circle}
@@ -31,8 +29,6 @@ Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}
 2. Detect magic on each mob
 3. Kill the mobs with easy abilites first
 
-Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}
-
 ---------------------
 
 {Circle}Brainwasher Pack{Circle}
@@ -49,8 +45,6 @@ Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}
 3rd target: {Square}Vekniss Warrior{Square}
 -  Summons Vekniss Borers when killed
 - AOE down the Vekniss Borers after these mobs die
-
-Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}
 
 ---------------------
 
@@ -78,8 +72,6 @@ Once at Fankriss room, hug left wall and move into Safe Spot around corner
 
 {Square}Vekniss Stinger{Square}
 - Charges random raiders, with massive damage increase if poisoned with Vekniss Catalyst
-
-Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}
 
 ---------------------
 
@@ -117,8 +109,6 @@ If Explode: Run away at 20%
 - AOE Fear so tank away from raid
 - Enrage when low (can be dispelled/purged!)
 
-Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}
-
 ---------------------
 
 {Circle}More Trash after Twins{Circle}
@@ -133,7 +123,5 @@ Pull them away from the raid and kill after Nullifiers
 Possible abilities:
 - Root / Fear
 - Dust Cloud (Hit reduction) / Silence
-
-Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}
 
 ---------------------

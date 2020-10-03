@@ -10,5 +10,3 @@ Pull them away from the raid and kill after Nullifiers
 Possible abilities:
 - Root / Fear
 - Dust Cloud (Hit reduction) / Silence
-
-Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}

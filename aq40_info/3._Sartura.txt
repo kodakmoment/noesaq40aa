@@ -16,8 +16,3 @@ CAREFUL not to go near exit to the left - that's the Scarab Gauntlet and you'll 
 - OTs back to wall if possible to avoid knockback
 - Stun boss and adds whenever possible (immune during Whirlwind)
 - GO ALL OUT, but save CDs for 20%
-
-HEAL ASSIGNMENTS
-H1, H2 heal T2 (H1 and H2 spread out!); H3, H4 heal T3 (H3 and H4 spread out!); H5 heal T1; H6 heal T4; H7 heal O1
-
-{Skull}T1{Skull} - {Cross}T4{Cross} - {Square}O1{Square} - {Star}T2 & T3{Star} (({Star}=Sartura))

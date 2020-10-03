@@ -16,5 +16,3 @@
 - Knockback with aggro wipe
 - AOE Fear so tank away from raid
 - Enrage when low (can be dispelled/purged!)
-
-Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}

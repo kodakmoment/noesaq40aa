@@ -10,11 +10,6 @@
 {Square}Vem{Square} enrages the other bosses if he is killed before them
 {Square}Vem{Square} does a knockback on the tank, stand next to a wall.
 
-TANKS:{Skull}Kri: T1{Skull} -- {Cross}Yauj: T3 & T4{Cross} -- {Square}Vem: T2{Square}
 LoS bosses from each other to reduce 
 
-HEALING: H1 & H2 heal T1 -- H3 & H4 heal T3 & T4 -- H5 & H6 heal T2
-
 ASSIGN POISON CLEANSING
-
-Kill order {Skull}Lord Kri{Skull} -> {Cross}Princess Yauj{Cross} -> {Square}Vem{Square}
