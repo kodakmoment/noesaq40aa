@@ -1,14 +1,11 @@
 Raggy Ragface
 
 TANKING
-{Skull}T1{Skull} Maintank with max FR
-{Cross}T2{Cross} Offtank with max FR
+T1, T2 -> Ragnaros
 
 HEALING
 H1, H2, H3, H5, H7 -> T1, T2
 
 Tanks ANNOUNCE knockback
-Melee move in and out with {Cross}T2{Cross}
-
 Pop GFPP before start
 Spread out (/Range 11)

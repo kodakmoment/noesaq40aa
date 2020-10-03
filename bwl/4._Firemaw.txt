@@ -1,0 +1,13 @@
+{Skull}Firemaw{Skull}
+
+TANKING
+T1 -> {Skull}
+
+TAUNT ORDER
+T2 -> T3
+
+HEALING
+H1, H2, H5, H8 -> T1
+H7 -> T2, T3
+
+All tanks use [Onyxia Scale Cloak]

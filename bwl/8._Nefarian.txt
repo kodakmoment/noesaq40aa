@@ -7,4 +7,4 @@
 TANKING
 T1 -> {Skull}
 
-- At 20% AOE the skeletons
+At 20% AOE the skeletons

@@ -20,4 +20,4 @@ M2 -> {Moon}
 M3 -> {Circle}
 M4 -> {Diamond}
 
-cleave down 4 by 4
+Cleave down 4 by 4
