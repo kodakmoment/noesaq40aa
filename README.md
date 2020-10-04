@@ -28,7 +28,7 @@
 * 6 [Huhuran](2_aq40/6._Huhuran.txt)
 * 7 [Ouru](2_aq40/7._Ouro.txt)
 * 8 [Twin Emps](2_aq40/8._TwinEmps.txt)
-* 9 [CThun P1](2_aq40/9._CThun.txt)
+* 9 [CThun](2_aq40/9._CThun.txt)
 
 ## BWL
 
@@ -78,7 +78,7 @@
 * 6 [Huhuran](5_aq_info/6._Huhuran.txt)
 * 7 [Ouru](5_aq_info/7._Ouro.txt)
 * 8 [Twin Emps](5_aq_info/8._TwinEmps.txt)
-* 9 [CThun P1](5_aq_info/9._CThun.txt)
+* 9 [CThun](5_aq_info/9._CThun.txt)
 
 ## Generate AngryAssignments.lua
 
