@@ -1,7 +1,7 @@
-Raggy Ragface
+{Skull}Raggy Ragface{Skull}
 
 TANKING
-T1, T2 -> Ragnaros
+T1, T2 -> {Skull}
 
 HEALING
 H1, H2, H3, H4, H5 -> T1, T2

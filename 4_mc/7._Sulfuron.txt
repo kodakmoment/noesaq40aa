@@ -1,4 +1,4 @@
-Sulfuron
+{Skull}Sulfuron{Skull}
 
 TANKING
 T1 -> {Skull}

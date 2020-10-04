@@ -1,7 +1,7 @@
-Golemagg
+{Skull}Golemagg{Skull}
 
 TANKING
-T1, T2 -> Boss
+T1, T2 -> {Skull}
 T3 -> {Triangle} + {Diamond}
 
 Tank Adds away from Boss!
