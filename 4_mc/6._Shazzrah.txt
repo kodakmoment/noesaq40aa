@@ -1,4 +1,4 @@
-{Star}Shazzrah{Star}
+{Skull}Shazzrah{Skull}
 
 TAUNT ROTATION
 T2 -> T3 -> T4 -> T1

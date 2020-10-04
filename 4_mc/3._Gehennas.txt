@@ -1,4 +1,4 @@
-{Star}Gehennas{Star}
+{Skull}Gehennas{Skull}
 
 TANKING
 T1 -> {Skull}

@@ -1,4 +1,4 @@
-{Star}Lucifron{Star}
+{Skull}Lucifron{Skull}
 
 TANKING
 T1 -> {Skull}

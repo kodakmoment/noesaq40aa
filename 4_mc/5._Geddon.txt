@@ -1,4 +1,4 @@
-{Star}Baron{Star}
+{Skull}Baron Geddon{Skull}
 
 T1 -> {Skull}
 
