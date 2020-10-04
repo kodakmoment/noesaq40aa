@@ -82,11 +82,11 @@
 
 ## Generate AngryAssignments.lua
 
-* 0.1 [Generate AA lua](generateAAlua.sh)
+* [Generate AngryAssignments.lua](generateAAlua.sh)
 
 ```
 Simple bash script that reads trough all files and folders
-For each folder it creates a category with the same name in AA
+For each folder it creates a category with the same name
 For each .txt file it creates a page from the file content
 Each file is connected to the category based on their folder
 
