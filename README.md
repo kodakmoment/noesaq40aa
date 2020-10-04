@@ -4,6 +4,9 @@
 
 * 0.1 [Welcome](1_general/0.1_Welcome.txt)
 * 0.2 [Assignments](1_general/0.2_AssignmentsFull.txt)
+* 0.2.1 [Assignments Aq40](1_general/0.2.1_AssignmentsAq40.txt)
+* 0.2.2 [Assignments BWL](1_general/0.2.2_AssignmentsBwl.txt)
+* 0.2.3 [Assignments MC](1_general/0.2.3_AssignmentsMc.txt)
 * 0.3 [Good Raid](1_general/0.3_GoodRaid.txt)
 
 ## AQ40
