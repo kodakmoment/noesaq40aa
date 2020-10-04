@@ -2,12 +2,12 @@
 
 ## General
 
-* 0.1 [Welcome](1_general/0.1_Welcome.txt)
-* 0.2 [Assignments](1_general/0.2_Assignments.txt)
-* 0.2.1 [Assignments Aq40](1_general/0.2.1_Aq40_tpl.txt)
-* 0.2.2 [Assignments BWL](1_general/0.2.2_Bwl_tpl.txt)
-* 0.2.3 [Assignments MC](1_general/0.2.3_Mc_tpl.txt)
-* 0.3 [Good Raid](1_general/0.3_GoodRaid.txt)
+* 1 [Welcome](1_general/1_Welcome.txt)
+* 2.0 [Assignments](1_general/2.0_Assignments.txt)
+* 2.1 [Assignments Aq40](1_general/2.1_Aq40_tpl.txt)
+* 2.2 [Assignments BWL](1_general/2.2_Bwl_tpl.txt)
+* 2.3 [Assignments MC](1_general/2.3_Mc_tpl.txt)
+* 3 [Good Raid](1_general/3_GoodRaid.txt)
 
 ## AQ40
 
