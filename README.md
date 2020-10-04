@@ -86,15 +86,15 @@
 Simple bash script that reads trough all files and folders
 For each folder it creates a category with the same name
 For each .txt file it creates a page from the file content
-Each file is connected to the category based on their folder
+Each page is connected to the category based on their folder
 
 Generate a new AngryAssignments.lua by running the script like this:
-bash generateAAlua.sh AngryAssignments.lua
+ bash generateAAlua.sh AngryAssignments.lua
 
-Updated your Angry Assignments file on your computer
+Update your Angry Assignments file on your computer
 1 Make sure you are logged out of the game
 2 Backup your WTF\Account\<accountname>\SavedVariables\AngryAssignments.lua
-3 Copy the new generated AngryAssignments.lua into WTF\Account\<accountname>\SavedVariables\
+3 Copy the newly generated AngryAssignments.lua into WTF\Account\<accountname>\SavedVariables\
 4 Log into the game
 5 Run "/aa window" in-game and browse the AAs
 ```
