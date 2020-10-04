@@ -5,14 +5,14 @@ T3 -> BOSS
 T1 -> {Skull} -> {Triangle}
 T2 -> {Cross} -> {Moon}
 T4 -> {Square} -> {Circle}
-O1 -> {Star} -> {Diamond}
+T5 -> {Star} -> {Diamond}
 
 HEALING
 H1 -> T1
 H2 -> T2
-H7 -> T3
-H3 -> T4
-H4 -> O1
+H3 -> T3
+H4 -> T4
+H5 -> T5
 
 SHEEPS
 M1 -> {Triangle}

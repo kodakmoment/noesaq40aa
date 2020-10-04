@@ -1,8 +1,8 @@
 Razorgore Phase 1:
 
-{Diamond}U1{Diamond}does MC ({Triangle}U2{Triangle} and {Moon}L2{Moon} on backup)
+{Diamond}U1{Diamond} Does MC ({Triangle}U2{Triangle} and {Moon}L2{Moon} on backup)
 - Groups 1, 3, 5, 7 far; {Skull}T1{Skull} and {Cross}T2{Cross} tank 
-- Groups 2, 4, 6, 8 near; {Square}T3{Square} and {Star}W1{Star} tank
+- Groups 2, 4, 6, 8 near; {Square}T3{Square} and {Star}T4{Star} tank
 - Healer 1, 3, 5, 7, 9 far
 - Healer 2, 4, 6, 8, 10 near
 

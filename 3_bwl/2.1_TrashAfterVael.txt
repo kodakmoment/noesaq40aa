@@ -5,7 +5,7 @@ T1 -> {Skull}
 T2 -> {Cross}
 T3 -> {Square}
 T4 -> {Star}
-O1 -> {Circle} (if needed)
+T5 -> {Circle} (if needed)
 
 HUNTER KITE
 U1 -> {Triangle}
@@ -17,7 +17,7 @@ H1 -> T1
 H2 -> T2
 H3 -> T3
 H4 -> T4
-H5 -> O1
+H5 -> T5
 
 Kill order: 
 {skull} -> {cross} -> {star} -> {square} -> {Circle} -> {triangle} -> {moon}

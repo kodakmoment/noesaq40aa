@@ -5,14 +5,14 @@ T1 -> {Skull}
 T2 -> {Cross}
 T3 -> {Square}
 T4 -> {Star}
-O1 -> {Circle}
+T5 -> {Circle}
 
 HEALING
 H1 -> T1
 H2 -> T2
 H3 -> T3
 H4 -> T4
-H5 -> O1
+H5 -> T5
 
 CASTERS Aoe the goblins, at los points.
 

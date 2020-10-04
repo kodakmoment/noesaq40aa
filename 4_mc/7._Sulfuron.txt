@@ -5,13 +5,13 @@ T1 -> {Skull}
 T2 -> {Cross} 
 T3 -> {Square} 
 T4 -> {Star} 
-O1 -> {Circle} 
+T5 -> {Circle} 
 
 INTERRUPTS
-I1, I5 -> {Cross}
-I2, I6 -> {Square}
-I3, I7 -> {Star}
-I4, I8 -> {Circle}
+I1 -> {Cross}
+I2 -> {Square}
+I3 -> {Star}
+I4 -> {Circle}
 
 Cleave them all down
 Dispel debuff on MT

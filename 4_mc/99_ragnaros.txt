@@ -4,7 +4,7 @@ TANKING
 T1, T2 -> Ragnaros
 
 HEALING
-H1, H2, H3, H5, H7 -> T1, T2
+H1, H2, H3, H4, H5 -> T1, T2
 
 Tanks ANNOUNCE knockback
 Pop GFPP before start

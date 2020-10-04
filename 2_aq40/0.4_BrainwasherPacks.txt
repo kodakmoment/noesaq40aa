@@ -5,15 +5,15 @@ T1 -> {skull}
 T2 -> {cross}
 T3 -> {square}
 T4 -> {star}
-O1 -> {Circle}
-O2 -> Ready to pick up {skull} or {cross}
+T5 -> {Circle}
+T6 -> Ready to pick up {skull} or {cross}
 
 HEAL ASSIGNMENT
 H1 -> T1
 H2 -> T2
 H3 -> T3
 H4 -> T4
-H5 -> O1
-H6 -> O2
+H5 -> T5
+H6 -> T6
 
 Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle}
