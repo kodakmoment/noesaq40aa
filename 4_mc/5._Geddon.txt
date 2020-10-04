@@ -1,3 +1,7 @@
 {Star}Baron{Star}
 
 T1 -> {Skull}
+
+Living Bomb runs to safe spot
+Melee out during Inferno
+Ranged LOS Ignite Mana

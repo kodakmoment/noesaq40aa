@@ -2,3 +2,6 @@
 
 TAUNT ROTATION
 T2 -> T3 -> T4 -> T1
+
+Half circle around boss for ranged/healers
+Melee in middle with tanks
