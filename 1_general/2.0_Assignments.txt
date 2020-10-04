@@ -1,6 +1,3 @@
 {Skull}{Cross}{Square}{Star} Raid assignments {Triangle}{Moon}{Circle}{Diamond}
 
 <insert assignment here>
-
-Kill order: 
-{skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}
