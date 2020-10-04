@@ -1,35 +1,6 @@
-{Skull}{Cross} Welcome to NOES Raid {Circle}{Diamond}
+{Skull}{Cross}{Square}{Star} Raid assignments {Triangle}{Moon}{Circle}{Diamond}
 
-{Square}{Star} Raid assignments {Triangle}{Moon}
-
-TANK 1 (T1):  {Skull}
-TANK 2 (T2):  {Cross}
-TANK 3 (T3):  {Square}
-TANK 4 (T4):   {Star}
-OFFTANK 1 (O1):  {Circle}
-OFFTANK 2 (O2):  {Moon}
-HUNTER 1 (U1): 
-HUNTER 2 (U2): 
-HUNTER 3 (U3): 
-WARLOCK 1 (L1): 
-WARLOCK 2 (L2): 
-INTERRUPTOR 1 (I1): 
-INTERRUPTOR 2 (I2): 
-INTERRUPTOR 3 (I3): 
-INTERRUPTOR 4 (I4): 
-INTERRUPTOR 5 (I5): 
-INTERRUPTOR 6 (I6): 
-HEALER 1 (H1): 
-HEALER 2 (H2): 
-HEALER 3 (H3): 
-HEALER 4 (H4): 
-HEALER 5 (H5): 
-HEALER 6 (H6): 
-HEALER 7 (H7): 
-HEALER 8 (H8): 
-HEALER 9 (H9): 
-HEALER 10 (H10): 
-HEALER 11 (H11): 
+<insert assignment here>
 
 Kill order: 
 {skull} -> {cross} -> {square} -> {star} -> {Circle} -> {moon}
