@@ -1,4 +1,4 @@
-{Skull}Broodlord{Star}
+{Skull}Broodlord{Skull}
 
 TANKING
 T1 -> Starts
