@@ -79,3 +79,22 @@
 * 7 [Ouru](5_aq_info/7._Ouro.txt)
 * 8 [Twin Emps](5_aq_info/8._TwinEmps.txt)
 * 9 [CThun P1](5_aq_info/9._CThun.txt)
+
+## Generate AngryAssignments.lua
+
+* 0.1 [Generate AA lua](generateAAlua.sh)
+
+```
+Simple bash script that reads trough all folders and files
+For each folder it creates a category with the same name in AA
+For each file inside each folder it creates a page from the file content and connects it to the given category
+
+Example generating AngryAssignments.lua:
+  bash generateAAlua.sh AngryAssignments.lua
+
+Make sure you are logged out
+Backup your WTF\Account\<accountname>\SavedVariables\AngryAssignments.lua
+Copy the new generated AngryAssignments.lua into WTF\Account\<accountname>\SavedVariables\
+Log into the game
+Run "/aa window" in-game and browse the AAs
+```
