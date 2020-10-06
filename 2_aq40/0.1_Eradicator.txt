@@ -1,9 +1,6 @@
 {Circle}Obsidian Eradicator{Circle}
 
-TANK ASSIGNMENT
-T1 -> {Circle}
-
 HEAL ASSIGNMENT
-H7, H8 -> T1
+H7, H8 -> {Circle}
 
 Priests, Warlocks and Hunters drain mana!

@@ -1,15 +1,21 @@
-{Circle}Trash after Fankriss{Circle}
+: Trash after Fankriss :
 
-TANK ASSIGNMENT
-T2 -> {Skull}
-T1, T4, T5 -> {Cross}
-T3 -> {Square}
-T6 -> {star}
+{Skull}Vekniss Warrior{Skull}
+{cross}Vekniss Warrior{cross}
+{square}Vekniss Warrior{square}
+---
+{skull}Vekniss Hive Crawler{skull}
+{cross}Vekniss Hive Crawler{cross}
+---
+{Skull}Vekniss Wasp/Stinger{Skull}
+{Cross}Vekniss Wasp/Stinger{Cross}
+{Square}Vekniss Wasp/Stinger{Square}
+{Star}Qiraji Lasher{Star}
 
 HEAL ASSIGNMENT
-H1, H4, H5 -> T1, T4, T5
-H2 -> T2
-H3 -> T3
-H6 -> T6
+H1 -> {Skull}
+H2 -> {Cross}
+H3 -> {Square}
+H4 -> {star}
 
 Kill order: {skull} -> {cross} -> {square} -> {star}

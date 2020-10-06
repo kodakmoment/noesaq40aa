@@ -1,16 +1,15 @@
-{star}Battleguard Sartura{star}
+: Sartura :
 
-TANK ASSIGNMENT
-T1 -> {Skull}
-T2, T3 -> {Star}
-T4 -> {Cross}
-T5 -> {Square}
+{Star} Battleguard Sartura {Star}
+{Skull} Sartura's Royal Guard {Skull}
+{Cross} Sartura's Royal Guard {Cross}
+{Square} Sartura's Royal Guard {Square}
 
-HEAL ASSIGNMENTS
-H1, H2, H3 -> T2, T3
-H4 -> T1
-H5 -> T4
-H6 -> T5
+HEALING
+H1, H2, H3 -> {Star}
+H4 -> {Skull}
+H5 -> {Cross}
+H6 -> {Square}
 
 Kill order {Skull} -> {Cross} -> {Square} -> {Star}
 

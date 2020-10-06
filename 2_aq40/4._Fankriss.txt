@@ -1,11 +1,10 @@
-{skull}Frankriss the Unyielding{skull}
+: Fankriss :
 
-TANK ASSIGNMENT
-T1, T2 -> {skull}
-T3 -> {cross}
+{Skull} Fankriss the Unyielding {Skull}
+{cross} Spawn of Fankriss {cross}
 
-HEAL ASSIGNMENTS
-H1, H2 -> T1, T2
-H3 -> T3
+HEALING
+H1, H2 -> {Skull}
+H3 -> {cross}
 
 Remember entangled players

@@ -1,18 +1,11 @@
-{Star}The Prophet Skeram{Star}
-
-TANK ASSIGNMENT
-T1, T2 Middle {Star}
-T3, T5 Left
-T4, T6 Right
+: The Prophet Skeram :
 
 INTERRUPT ASSIGNMENT
 I1, I2 -> Middle
 I3, I4 -> Left
 I5, I6 -> Right
 
-HEAL ASSIGNMENT
-H1, H2 -> T1, T2
-H3 -> T3
-H4 -> T4
-H5 -> T5
-H6 -> T6
+HEALING
+H1, H2 -> Middle
+H3, H4 -> Left
+H5, H6 -> Right

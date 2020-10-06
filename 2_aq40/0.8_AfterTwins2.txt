@@ -1,15 +1,14 @@
-{Circle}More Trash after Twins{Circle}
+: More Trash after Twins :
 
-TANK ASSIGNMENT
-T1 -> {skull}
-T2 -> {cross}
-T3 -> {square}
+{Square} Anubisath Warder {Square}
+{Skull} Obsidian Nullifier {Skull}
+{Cross} Obsidian Nullifier {Cross}
 
 HEAL ASSIGNMENT
-H1 -> T1
-H2 -> T2
-H3 -> T3
+H6 -> {Square}
+H7 -> {Skull}
+H8 -> {Cross}
 
-Priests, Warlocks and Hunters drain {square}
+Priests, Warlocks and Hunters drain {Cross}
 
-Kill order: {skull} -> {cross} -> {square}
+Kill order: {Skull} -> {Cross} -> {Square}

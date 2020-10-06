@@ -1,17 +1,16 @@
-{Circle}Trash after Twins{Circle}
+: Trash after Twins :
 
-TANK ASSIGNMENT
-T1, T5 -> {circle}
-T2 -> {skull}
-T3 -> {cross}
-T4 -> {square}
-T6 -> {star}
+{Circle} Qiraji Champion {Circle}
+{Skull} Qiraji Slayer/Mindslayer {Skull}
+{Cross} Qiraji Slayer/Mindslayer {Cross}
+{Square} Qiraji Slayer/Mindslayer {Square}
+{Star} Qiraji Slayer/Mindslayer {Star}
 
 HEAL ASSIGNMENT
-H1, H5 -> T1, T5
-H2 -> T2
-H3 -> T3
-H4 -> T4
-H6 -> T6
+H1, H5 -> {Circle}
+H2 -> {Skull}
+H3 -> {Cross}
+H4 -> {Square}
+H6 -> {Star}
 
 Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle}
