@@ -1,5 +1,13 @@
 # noes AA
 
+* [General](#General)
+* [AQ40](#AQ40)
+* [BWL](#BWL)
+* [MC](#MC)
+* [AQ40 Info](#AQ40-Info)
+* [Generate AngryAssignments.lua](#Generate-AngryAssignments.lua)
+* [Update your Angry Assignments file on your computer](#Update-your-Angry-Assignments-file-on-your-computer)
+
 ## General
 
 * 1 [Welcome](1_general/1_Welcome.txt)
