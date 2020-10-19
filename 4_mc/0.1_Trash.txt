@@ -1,14 +1,14 @@
 Trash
 
 TANKS
-T1 -> {skull}  
-T2 -> {cross}
+T1 -> {Skull}  
+T2 -> {Cross}
 T3 -> {Square}
 T4 -> {Star}
 
 BANISH
-L1 -> {triangle}
-L2 -> {diamond}
+L1 -> {Triangle}
+L2 -> {Diamond}
 
 HEALING
 H1 -> T1

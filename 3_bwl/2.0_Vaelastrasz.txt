@@ -1,4 +1,4 @@
-Vaelastrasz
+{Skull}Vaelastrasz{Skull}
 
 TANKING
 T1 Starts
@@ -8,4 +8,4 @@ HEALING
 Shamans -> T1, T2, T3
 Druids, Priests -> Raid heal
 
-GET OUT if u get Burning Adrenaline
+GET OUT if u get Burning Adrenaline!
