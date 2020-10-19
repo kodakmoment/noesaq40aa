@@ -9,9 +9,6 @@ H6, H7 -> Group 2
 H8, H9 -> Group 3
 H10 -> Group 4
 
-HUNTER ROTATION
-U1 -> U2 -> U3
-
 Ranged spread out
 Remember GNPP and enrage at 30%
 Only remove Wyvern Sting from tanks!
