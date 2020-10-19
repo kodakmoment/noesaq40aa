@@ -99,8 +99,10 @@ bash generateAAlua.sh AngryAssignments.lua
 ```
 
 ## Update your Angry Assignments file on your computer
+```
 1. Make sure you are logged out of the game
 2. Backup your WTF\Account\<accountname>\SavedVariables\AngryAssignments.lua
 3. Copy the newly generated AngryAssignments.lua into WTF\Account\<accountname>\SavedVariables\
 4. Log into the game
 5. Run "/aa window" in-game and browse the AAs
+```
