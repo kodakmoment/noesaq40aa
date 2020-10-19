@@ -6,3 +6,4 @@ T2 -> {Cross}
 T3 -> {Square}
 
 Cleave all 3 down
+Decurse prio on Tanks!

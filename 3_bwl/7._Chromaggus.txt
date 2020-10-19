@@ -10,7 +10,7 @@ HUNTER TRANQ
 U2 -> U3
 
 TIMELAPSE LOS
-T2, H7, H1
+T1, H7, H1
 
 BREATHS
 Red: Fire dmg

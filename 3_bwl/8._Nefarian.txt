@@ -1,10 +1,15 @@
 {Star}Nefarian{Star}
 
-- Groups 1, 3, 5, 7 North; Groups 2, 4, 6, 8 south;
-- Healer 1, 3, 5, 7, 9 far
-- Healer 2, 4, 6, 8, 10 near
+POSITIONING PHASE 1
+Groups 1, 3, 5, 7 -> Near
+Groups 2, 4, 6, 8 -> Far
+Healer 1, 3, 5, 7, 9 -> Near
+Healer 2, 4, 6, 8, 10 -> Far
+**Far and near relative to entrance**
 
 TANKING
 T1 -> {Skull}
 
 At 20% AOE the skeletons
+Mages decurse tank on druid call!
+!- EVERYONE -! use [Onyxia Scale Cloak]!
