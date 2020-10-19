@@ -8,11 +8,6 @@ TANK 4 (T4): {Star}
 TANK 5 (T5): {Circle}
 TANK 6 (T6): {Moon}
 
-HUNTERS
-HUNTER 1 (U1): 
-HUNTER 2 (U2): 
-HUNTER 3 (U3): 
-
 WARLOCKS
 WARLOCK 1 (L1): 
 WARLOCK 2 (L2): 
