@@ -1,0 +1,8 @@
+{Circle} Anubisath Defender {Circle}
+
+HEAL ASSIGNMENT
+H1, H2, H3 -> {Circle}
+
+Melee STAY ON {cross}
+Ranged STAY ON {moon}
+Run OUT if plagued!

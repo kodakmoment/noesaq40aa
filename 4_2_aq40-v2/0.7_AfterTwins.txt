@@ -1,0 +1,19 @@
+: Trash after Twins :
+
+{Circle} Qiraji Champion {Circle}
+{Skull} Qiraji Slayer/Mindslayer {Skull}
+{Cross} Qiraji Slayer/Mindslayer {Cross}
+{Square} Qiraji Slayer/Mindslayer {Square}
+{Star} Qiraji Slayer/Mindslayer {Star}
+
+HEAL ASSIGNMENT
+H1, H5 -> {Circle}
+H2 -> {Skull}
+H3 -> {Cross}
+H4 -> {Square}
+H6 -> {Star}
+
+Kill Mindslayers away from raid
+Use grounding totems!
+
+Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle}

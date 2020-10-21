@@ -1,0 +1,13 @@
+: Skeram :
+
+{Cross} The Prophet Skeram {Cross}
+
+INTERRUPT ASSIGNMENT
+I1, I2 -> Middle
+I3, I4 -> Left
+I5, I6 -> Right
+
+HEALING
+H1, H2, H7 -> Middle
+H3, H4, H8 -> Left
+H5, H6, H9 -> Right

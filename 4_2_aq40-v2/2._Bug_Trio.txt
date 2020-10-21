@@ -1,0 +1,18 @@
+: Bug Trio :
+
+{Skull} Vem {Skull}
+{Cross} Yauj {Cross}
+{Square} Kri {Square}
+
+INTERRUPTS
+I1, I3, I4 -> {Cross}
+
+HEALING
+H1, H2 -> {Skull}
+H3, H4 -> {Cross}
+H5, H6 -> {Square}
+
+Kill order: as announced
+
+Tremor and poison cleanse
+Enrage after second Bug dead

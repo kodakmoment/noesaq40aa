@@ -1,0 +1,8 @@
+: Viscidus :
+
+{Skull}Viscidus{Skull}
+
+HEALING
+H1, H2 -> {Skull}
+
+Remember poison cleansing and GNPP

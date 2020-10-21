@@ -1,0 +1,10 @@
+: Ouru :
+
+{Skull}Ouro{Skull}
+
+HEALING
+H1, H2, H3, H4, H5 -> {Skull}
+
+Remember enrage at 20%
+Melee out on Sweep
+DPS stay behind Tanks and Warlocks on threat

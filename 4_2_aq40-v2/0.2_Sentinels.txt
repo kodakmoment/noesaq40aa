@@ -1,0 +1,9 @@
+{skull}{cross}{square}{star}Anubisath Sentinels{star}{square}{cross}{skull}
+
+HEAL ASSIGNMENT
+H1 -> {skull}
+H2 -> {cross}
+H3 -> {square}
+H4 -> {star}
+
+Kill order: As announced on voice

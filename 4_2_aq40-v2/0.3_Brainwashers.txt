@@ -1,0 +1,10 @@
+{Skull}Qiraji Brainwasher{Skull}
+{Cross}Vekniss Guardian{Cross}
+{Square}Vekniss Guardian{Square}
+
+HEAL ASSIGNMENT
+H1 -> {Skull}
+H2 -> {Cross}
+H3 -> {Square}
+
+Kill order: {skull} -> {cross} -> {square}

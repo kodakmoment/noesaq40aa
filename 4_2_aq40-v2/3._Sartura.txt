@@ -1,0 +1,16 @@
+: Sartura :
+
+{Star} Battleguard Sartura {Star}
+{Skull} Sartura's Royal Guard {Skull}
+{Cross} Sartura's Royal Guard {Cross}
+{Square} Sartura's Royal Guard {Square}
+
+HEALING
+H1, H2, H3 -> {Star}
+H4 -> {Skull}
+H5 -> {Cross}
+H6 -> {Square}
+
+Kill order {Skull} -> {Cross} -> {Square} -> {Star}
+
+Spread out and care Fankriss cave on left - Stun stun stun!
