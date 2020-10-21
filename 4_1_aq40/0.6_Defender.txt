@@ -1,0 +1,10 @@
+{Circle}Anubisath Defender{Circle}
+
+TANK ASSIGNMENT
+T1 -> {Circle}
+
+HEAL ASSIGNMENT
+H1, H2, H6 -> T1
+
+Melee stack on {cross}
+Ranged stack on {moon}

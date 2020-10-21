@@ -1,0 +1,11 @@
+{Skull}Ouro{Skull}
+
+TANK ASSIGNMENT
+T1, T2, T3 -> {Skull}
+
+HEAL ASSIGNMENTS
+H1, H2, H3, H4, H5 -> T1, T2, T3
+
+Remember enrage at 20%
+Melee out on Sweep
+DPS stay behind Tanks and Warlocks on threat

@@ -1,0 +1,11 @@
+{skull}Frankriss the Unyielding{skull}
+
+TANK ASSIGNMENT
+T1, T2 -> {skull}
+T3 -> {cross}
+
+HEAL ASSIGNMENTS
+H1, H2 -> T1, T2
+H3 -> T3
+
+Remember entangled players

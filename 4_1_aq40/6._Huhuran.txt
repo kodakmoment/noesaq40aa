@@ -1,0 +1,15 @@
+{Skull}Princess Huhuran{Skull}
+
+TANK ASSIGNMENT
+T1 -> {Skull}
+
+HEAL ASSIGNMENTS
+H1, H2, H3 -> T1
+H4, H5 -> Group 1
+H6, H7 -> Group 2
+H8, H9 -> Group 3
+H10 -> Group 4
+
+Ranged spread out
+Remember GNPP and enrage at 30%
+Only remove Wyvern Sting from tanks!

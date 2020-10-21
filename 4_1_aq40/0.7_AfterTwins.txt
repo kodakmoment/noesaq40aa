@@ -1,0 +1,20 @@
+{Circle}Trash after Twins{Circle}
+
+TANK ASSIGNMENT
+T1, T5 -> {circle}
+T2, T7 -> {skull}
+T3, T8 -> {cross}
+T4, T9 -> {square}
+T6, T10 -> {star}
+
+HEAL ASSIGNMENT
+H1, H5 -> T1, T5
+H2 -> T2, T7
+H3 -> T3, T8
+H4 -> T4, T9
+H6 -> T6, T10
+
+Kill Mindslayers away from raid
+Use grounding totems!
+
+Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle}

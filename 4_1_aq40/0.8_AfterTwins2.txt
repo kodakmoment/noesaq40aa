@@ -1,0 +1,15 @@
+{Circle}More Trash after Twins{Circle}
+
+TANK ASSIGNMENT
+T1 -> {skull}
+T2 -> {cross}
+T3 -> {square}
+
+HEAL ASSIGNMENT
+H1 -> T1
+H2 -> T2
+H3 -> T3
+
+Priests, Warlocks and Hunters drain {square}
+
+Kill order: {skull} -> {cross} -> {square}

@@ -1,0 +1,17 @@
+{star}Battleguard Sartura{star}
+
+TANK ASSIGNMENT
+T1 -> {Skull}
+T2, T3 -> {Star}
+T4 -> {Cross}
+T5 -> {Square}
+
+HEAL ASSIGNMENTS
+H1, H2, H3 -> T2, T3
+H4 -> T1
+H5 -> T4
+H6 -> T5
+
+Kill order {Skull} -> {Cross} -> {Square} -> {Star}
+
+Spread out and care Fankriss cave on left - Stun stun stun!
