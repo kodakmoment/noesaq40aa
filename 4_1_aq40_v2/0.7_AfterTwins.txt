@@ -13,4 +13,7 @@ H3 -> {Cross}
 H4 -> {Square}
 H6 -> {Star}
 
+Kill Mindslayers away from raid
+Use grounding totems!
+
 Kill order: {skull} -> {cross} -> {square} -> {star} -> {Circle}
