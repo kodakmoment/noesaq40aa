@@ -4,13 +4,13 @@ TANKING
 T1 -> {Skull}
 
 HEALING
-H1, H3, H6, H7 - T1
+H1, H2, H6, H7 - T1
 
 HUNTER TRANQ
 U2 -> U3
 
 TIMELAPSE LOS
-T1, H7, H1
+T3, H7, H2
 
 BREATHS
 Red: Fire dmg

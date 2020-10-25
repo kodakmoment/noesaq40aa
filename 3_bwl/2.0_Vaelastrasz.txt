@@ -5,7 +5,7 @@ T1 Starts
 T2, T3 Fight for threat
 
 HEALING
-Shamans -> T1, T2, T3
-Druids, Priests -> Raid heal
+H1, H2, H3, H7 -> Tanks
+Rest raid heal at will
 
-GET OUT if u get Burning Adrenaline!
+Get out if u get Burning Adrenaline!

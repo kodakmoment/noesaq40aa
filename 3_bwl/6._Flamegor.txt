@@ -4,7 +4,4 @@ TANKING
 T1 -> Starts
 T2, T3 -> Taunt rotation
 
-HUNTER TRANQ
-U1 -> U2 -> U3
-
 Tanks use [Onyxia Scale Cloak]!

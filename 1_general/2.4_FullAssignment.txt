@@ -1,4 +1,4 @@
-The Temple of Ahn'Qiraj Assignments
+Molten Core Assignments
 
 TANKS
 TANK 1 (T1): {Skull}
@@ -6,17 +6,27 @@ TANK 2 (T2): {Cross}
 TANK 3 (T3): {Square}
 TANK 4 (T4): {Star}
 TANK 5 (T5): {Circle}
-TANK 6 (T6): {Moon}
 
 BACKUP TANKS
-TANK 7  (T7):
-TANK 8  (T8):
-TANK 9  (T9):
-TANK 10 (T10):
+TANK 7  (T7):  {Skull}
+TANK 8  (T8):  {Cross}
+TANK 9  (T9):  {Square}
+TANK 10 (T10): {Star}
+
+
+HUNTERS
+HUNTER 1 (U1): {Triangle}
+HUNTER 2 (U2): {Moon}
 
 WARLOCKS
-WARLOCK 1 (L1): 
-WARLOCK 2 (L2): 
+WARLOCK 1 (L1): {Triangle}
+WARLOCK 2 (L2): {Diamond}
+
+MAGES
+MAGE 1 (M1): {Triangle}
+MAGE 2 (M2): {Moon}
+MAGE 3 (M3): {Circle}
+MAGE 4 (M4): {Diamond}
 
 INTERRUPTERS
 INTERRUPTOR 1 (I1): Melee
@@ -27,7 +37,7 @@ INTERRUPTOR 5 (I5): Ranged
 INTERRUPTOR 6 (I6): Ranged
 
 HEALERS
-HEALER 1 (H1): Priest
+HEALER 1 (H1): Shaman (group 1)
 HEALER 2 (H2): Priest
 HEALER 3 (H3): Priest
 HEALER 4 (H4): Priest
