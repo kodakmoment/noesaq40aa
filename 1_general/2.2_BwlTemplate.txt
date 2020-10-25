@@ -13,7 +13,7 @@ HUNTER 2 (U2):
 HUNTER 3 (U3): 
 
 HEALERS
-HEALER 1 (H1): Priest
+HEALER 1 (H1): Shaman (Group 1)
 HEALER 2 (H2): Priest
 HEALER 3 (H3): Priest
 HEALER 4 (H4): Priest
