@@ -4,7 +4,7 @@ TANKING
 T1, T2 -> {Skull}
 
 HEALING
-H1, H2, H3, H5, H7 -> T1, T2
+H1, H2, H3, H7 -> T1, T2
 
 Tanks ANNOUNCE knockback
 Pop GFPP before start
