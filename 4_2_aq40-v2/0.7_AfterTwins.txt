@@ -1,5 +1,6 @@
 : Trash after Twins :
 
+TARGET MARKERS
 {Circle} Qiraji Champion {Circle}
 {Skull} Qiraji Slayer/Mindslayer {Skull}
 {Cross} Qiraji Slayer/Mindslayer {Cross}
