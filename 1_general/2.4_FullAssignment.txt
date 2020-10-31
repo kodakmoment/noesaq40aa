@@ -13,7 +13,6 @@ TANK 8  (T8):  {Cross}
 TANK 9  (T9):  {Square}
 TANK 10 (T10): {Star}
 
-
 HUNTERS
 HUNTER 1 (U1): {Triangle}
 HUNTER 2 (U2): {Moon}
