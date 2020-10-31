@@ -5,7 +5,7 @@ T1 Starts
 T2, T3 Fight for threat
 
 HEALING
-H1, H2, H3, H7 -> Tanks
+H1, H2, H5, H7 -> Tanks
 Rest raid heal at will
 
 Get out if u get Burning Adrenaline!

@@ -1,4 +1,4 @@
-Trash
+Trash Molten Core
 
 TANKS
 T1 -> {Skull}  
@@ -9,9 +9,3 @@ T4 -> {Star}
 BANISH
 L1 -> {Triangle}
 L2 -> {Diamond}
-
-HEALING
-H1 -> T1
-H2 -> T2
-H3 -> T3
-H4 -> T4
