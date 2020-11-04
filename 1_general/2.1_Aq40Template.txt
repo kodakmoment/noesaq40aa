@@ -18,20 +18,23 @@ WARLOCKS
 WARLOCK 1 (L1): 
 WARLOCK 2 (L2): 
 
+MAGE 1 (M1): Left
+MAGE 2 (M2): Right
+
 INTERRUPTERS
-INTERRUPTOR 1 (I1): Middle #Melee
-INTERRUPTOR 2 (I2): Middle #Melee
-INTERRUPTOR 3 (I3): Left #Ranged
-INTERRUPTOR 4 (I4): Left #Ranged
-INTERRUPTOR 5 (I5): Right #Ranged
-INTERRUPTOR 6 (I6): Right #Ranged
+INTERRUPTOR 1 (I1): Melee [Middle]
+INTERRUPTOR 2 (I2): Melee [Middle]
+INTERRUPTOR 3 (I3): Ranged [Left]
+INTERRUPTOR 4 (I4): Ranged [Left]
+INTERRUPTOR 5 (I5): Ranged [Right]
+INTERRUPTOR 6 (I6): Ranged [Right]
 
 HEALERS
-HEALER 1 (H1): {Skull} #Shaman (Group 1)
-HEALER 2 (H2): {Cross} #Priest
-HEALER 3 (H3): {Square} #Priest
-HEALER 4 (H4): {Star} #Priest
-HEALER 5 (H5): {Circle} #Druid
+HEALER 1 (H1): Shaman {Skull}
+HEALER 2 (H2): Priest {Cross}
+HEALER 3 (H3): Priest {Square}
+HEALER 4 (H4): Priest {Star}
+HEALER 5 (H5): Druid {Circle}
 HEALER 6 (H6):
 HEALER 7 (H7):
 HEALER 8 (H8): 
