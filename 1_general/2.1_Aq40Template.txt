@@ -18,8 +18,8 @@ WARLOCKS
 WARLOCK 1 (L1): 
 WARLOCK 2 (L2): 
 
-MAGE 1 (M1): Left
-MAGE 2 (M2): Right
+MAGE 1 (M1): [Left]
+MAGE 2 (M2): [Right]
 
 INTERRUPTERS
 INTERRUPTOR 1 (I1): Melee [Middle]
