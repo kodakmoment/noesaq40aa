@@ -7,30 +7,25 @@ TANK 3 (T3): {Square}
 TANK 4 (T4): {Star}
 TANK 5 (T5): {Circle}
 
-HUNTERS
-HUNTER 1 (U1): 
-HUNTER 2 (U2): 
-
 WARLOCKS
-WARLOCK 1 (L1): 
-WARLOCK 2 (L2): 
+WARLOCK 1 (L1): {Triangle}
+WARLOCK 2 (L2): {Diamond}
 
 MAGES
-MAGE 1 (M1): 
-MAGE 2 (M2): 
-MAGE 3 (M3): 
-MAGE 4 (M4): 
+MAGE 1 (M1): {Triangle}
+MAGE 2 (M2): {Moon}
+MAGE 3 (M3): {Circle}
+MAGE 4 (M4): {Diamond}
 
 INTERRUPTERS
-INTERRUPTOR 1 (I1): 
-INTERRUPTOR 2 (I2): 
-INTERRUPTOR 3 (I3): 
-INTERRUPTOR 4 (I4): 
+INTERRUPTOR 1 (I1): {Cross}
+INTERRUPTOR 2 (I2): {Square}
+INTERRUPTOR 3 (I3): {Star}
+INTERRUPTOR 4 (I4): {Circle}
 
 HEALERS
-HEALER 1 (H1): Shaman (Group 1)
-HEALER 2 (H2): Priest
-HEALER 3 (H3): Priest
-HEALER 4 (H4): Shaman
-HEALER 5 (H5): Shaman
-HEALER 6 (H6): Druid
+HEALER 1 (H1): {Skull} Shaman (Group 1)
+HEALER 2 (H2): {Cross} Priest
+HEALER 3 (H3): {Square} Priest
+HEALER 4 (H4): {Star} Priest
+HEALER 5 (H5): {Circle} Priest

@@ -4,9 +4,6 @@ TANKING
 T1 -> {Skull}
 T2 -> Backup
 
-HUNTER TRANQ
-U1 -> U2
-
 Shamans: Tremor Totem
 Healers/casters max range
 Don't stand in fire!

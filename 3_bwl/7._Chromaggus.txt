@@ -6,9 +6,6 @@ T1 -> {Skull}
 HEALING
 H1, H2, H6, H7 - T1
 
-HUNTER TRANQ
-U2 -> U3
-
 TIMELAPSE LOS
 T3, H7, H2
 

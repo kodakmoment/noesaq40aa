@@ -11,12 +11,5 @@ HUNTER KITE
 U1 -> {Triangle}
 U2 -> {Moon}
 
-HEALING
-H1 -> T1
-H2 -> T2
-H3 -> T3
-H4 -> T4
-H5 -> T5
-
 Kill order: 
 {skull} -> {cross} -> {star} -> {square} -> {Circle} -> {triangle} -> {moon}

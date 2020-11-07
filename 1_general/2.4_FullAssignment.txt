@@ -13,7 +13,6 @@ TANK 8  (T8):  {Cross}
 TANK 9  (T9):  {Square}
 TANK 10 (T10): {Star}
 
-
 HUNTERS
 HUNTER 1 (U1): {Triangle}
 HUNTER 2 (U2): {Moon}
@@ -28,22 +27,28 @@ MAGE 2 (M2): {Moon}
 MAGE 3 (M3): {Circle}
 MAGE 4 (M4): {Diamond}
 
-INTERRUPTERS
-INTERRUPTOR 1 (I1): Melee
-INTERRUPTOR 2 (I2): Melee
-INTERRUPTOR 3 (I3): Ranged
-INTERRUPTOR 4 (I4): Ranged
-INTERRUPTOR 5 (I5): Ranged
-INTERRUPTOR 6 (I6): Ranged
+INTERRUPTERS AQ40
+INTERRUPTOR 1 (I1): Middle #Melee
+INTERRUPTOR 2 (I2): Middle #Melee
+INTERRUPTOR 3 (I3): Left #Ranged
+INTERRUPTOR 4 (I4): Left #Ranged
+INTERRUPTOR 5 (I5): Right #Ranged
+INTERRUPTOR 6 (I6): Right #Ranged
+
+INTERRUPTERS MC
+INTERRUPTOR 1 (I1): {Cross}
+INTERRUPTOR 2 (I2): {Square}
+INTERRUPTOR 3 (I3): {Star}
+INTERRUPTOR 4 (I4): {Circle}
 
 HEALERS
-HEALER 1 (H1): Shaman (group 1)
-HEALER 2 (H2): Priest
-HEALER 3 (H3): Priest
-HEALER 4 (H4): Priest
-HEALER 5 (H5): Shaman
-HEALER 6 (H6): Shaman
-HEALER 7 (H7): Druid
+HEALER 1 (H1): {Skull} Shaman (Group 1)
+HEALER 2 (H2): {Cross} Priest
+HEALER 3 (H3): {Square} Priest
+HEALER 4 (H4): {Star} Priest
+HEALER 5 (H5): {Circle} Priest
+HEALER 6 (H6): 
+HEALER 7 (H7): 
 HEALER 8 (H8): 
 HEALER 9 (H9): 
-HEALER 10 (H10):
+HEALER 10 (H10): 

@@ -8,18 +8,17 @@ TANK 4 (T4): {Star}
 TANK 5 (T5): {Circle}
 
 HUNTERS
-HUNTER 1 (U1): 
-HUNTER 2 (U2): 
-HUNTER 3 (U3): 
+HUNTER 1 (U1): {Triangle}
+HUNTER 2 (U2): {Moon}
 
 HEALERS
-HEALER 1 (H1): Shaman (Group 1)
-HEALER 2 (H2): Priest
-HEALER 3 (H3): Priest
-HEALER 4 (H4): Priest
-HEALER 5 (H5): Shaman
-HEALER 6 (H6): Shaman
-HEALER 7 (H7): Druid
+HEALER 1 (H1): {Skull} Shaman (Group 1)
+HEALER 2 (H2): {Cross} Priest
+HEALER 3 (H3): {Square} Priest
+HEALER 4 (H4): {Star} Priest
+HEALER 5 (H5): {Circle} Druid
+HEALER 6 (H6):
+HEALER 7 (H7):
 HEALER 8 (H8): 
 HEALER 9 (H9): 
 HEALER 10 (H10):

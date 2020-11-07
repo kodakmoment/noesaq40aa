@@ -5,8 +5,8 @@ T2 -> {Cross}
 T1 -> Adds
 
 HEALING
-H1, H2, H3, H4, H5 -> T1
-H6 -> T2
+H1 -> T2
+Everyone else -> T1
 
 Zerg boss first, then AOE adds
 Adds explode when they die!
