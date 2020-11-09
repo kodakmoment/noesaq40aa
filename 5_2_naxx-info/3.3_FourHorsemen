@@ -1,0 +1,30 @@
+{Diamond}Four Horsemen{Diamond}
+
+Shared abilities:
+SHIELD WALL: All horesemen shield walls for 20sec at 50% and 20% hp.
+
+{Skull}Highlord Mograine{Skull}
+- RIGHTEOUS FIRE: 25% change on melee hit to do 2100-2700 dmg before 4800 dot.
+
+{Circle}Thane Korth'ass{Circle}
+- METEOR:
+    Throws a meteor on random target within 20 yards every 12 sec.
+    Considerable AoE dmg but distributed between affected players.
+
+{Square}Lady Blaumeax{Square}
+- VOID ZONE:
+    Spawns Void Zones every 12 sec under players
+    Does considerable dmg to players who stand in them.
+
+{Star}Sir Zeliek{Star}
+- HOLY WRATH: Beams a player that chains to nearby players within 5? yards.
+
+MARK SYSTEM:
+- Each horseman has a unique mark that affects everyone in a 70 yard range.
+- Marks are updated every 12 seconds.
+- The marks stacks and does dmg every time it is updated.
+- Marks does damage as 0, 250, 1000, 3000, 5000, 6000, 7000...
+- Lasts for 75 seconds and cannot be LOS'ed.
+
+Tactics:
+- 

@@ -1,0 +1,38 @@
+{Skull}Gothik the Harvester{Skull}
+
+Abilities:
+- SHADOW BOLT: Chain casts shadowbolts on random single targets from 2250 to 2750 dmg.
+- HARVEST SOUL: Debuff that decreases stats by 10%. Not dispellable.
+
+Adds:
+[Unrelenting Trainee]: | HP: ~4500 | Attack ~250-350dmg
+    EAGLE CLAW: Bleed every 3 sec for 15 sec.
+    KNOCKDOWN: Short knockdown and stun.
+[Unrelenting Deathknight] | HP: ~18 000 | Attack ~800 dmg
+    INTERCEPT: 3 sec stun.
+    SHADOW MARK: 15sec debuff that makes you affected by SHADOW BOLT VOLLEY.
+[Unrelenting Rider] | HP: ~25 000 | Attack ~1500 dmg
+    UNHOLY AURA: Inflicting 400 shadow dmg every 2sec to nearby enemies.
+    SHADOW BOLT VOLLEY: Hits players afflicted by SHADOW MARK for 3200 shadow dmg. 5sec cast time.
+[Spectral Trainee] | HP: ~5000
+    ARCANE EXPLOSION: Hits for 400-500dmg in a 30 yard range.
+[Spectral Deathknight] | HP: ~19 000 | Attack ~1500 dmg
+    WHIRLWIND: 1700 dmg
+    SUNDER ARMOR: Reducing armor by 2950 per sunder. Lasts 25 sec.
+    CLEAVE: Inflict 2000-2500 physical dmg to an enemy and nearby allies.
+    MANA BURN: Hits nearby enemies with mana burn bolts.
+[Spectral Rider] | HP: ~10 000 | Attack ~1500 dmg
+    UNHOLY AURA: Inflicting 400 shadow dmg every 2sec to nearby enemies.
+    LIFEDRAIN: Attacks a single target draining 500-600 life. Interruptable.
+[Spectral Horse] | HP: ~30 000 | Attack ~2000 dmg
+    STOMP: PBAoE for low dmg and reducing movement by 60% for 10sec.
+
+Tactics:
+- Split the raid between living (Unrelenting) and dead (Spectral)
+- Casters go living and melee go dead.
+- Adds will spawn in waves on living and will be sent to dead side when they die.
+- Dead side is harded so living killing speed should be controlled.
+- Gothik The Harvester enters at 4:34 swapping between sides every 30sec.
+- When Gothik is at 30% the gates open so everyone can dps together.
+- Gothik should be burned down because of HARVEST SOUL
+- Priests should CC Deathknights

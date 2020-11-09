@@ -1,0 +1,16 @@
+{Skull}Gluth{Skull}
+
+Abilities:
+- MORTAL WOUND: Stacking debuff reduces healing by 10%.
+- FRENZY: Goes into frenzy doing considerable more dmg.
+- TERRIFYING ROAR: AoE fear. 20 yard range.
+- ZOMBIES: Zombies spawns every 10sec at the entrance.
+- DECIMATE:
+    Reduce health of all players and zombies to 5%.
+    Zombies will walk towards Gluth and Gluth regains health if they reach him.
+
+Tactics:
+- Get boss in position and manage tank swaps for MORTAL WOUND.
+- Use tranq shot for FRENZY.
+- Use NS heal rotation for tanks on DECIMATE
+- Kite ZOMBIES around until DECIMATE
