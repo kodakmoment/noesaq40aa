@@ -2,6 +2,7 @@
 
 Shared abilities:
 SHIELD WALL: All horesemen shield walls for 20sec at 50% and 20% hp.
+ENRAGE: Removes CD on all abilities. 20 min timer.
 
 {Skull}Highlord Mograine{Skull}
 - RIGHTEOUS FIRE: 25% change on melee hit to do 2100-2700 instant dmg and 4800 dmg over 8 sec.
@@ -27,4 +28,7 @@ MARK SYSTEM:
 - Lasts for 75 seconds and cannot be LOS'ed.
 
 Tactics:
-- 
+- Tank each horseman in each corner of the room.
+- Rotate dps {Skull} -> {Circle} -> Safe Zone [Rine and repeat].
+- Rotate healers so there are always 1-2 healers per corner.
+- Rotate melee after each third mark update.

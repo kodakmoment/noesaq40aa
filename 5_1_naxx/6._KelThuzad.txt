@@ -24,7 +24,7 @@ M1, M4, M7, M10 -> Group A
 M2, M5, M8, M11 -> Group B
 M3, M6, M9, M12 -> Gropu C
 
-POSITIONING PHASE 2 + 3
+MELEE POSITIONING PHASE 2 + 3
 Gropu A -> Left
 Group B -> Right
 Group C -> Behind ("on the ass")
