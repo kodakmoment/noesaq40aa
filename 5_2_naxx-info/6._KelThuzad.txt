@@ -1,4 +1,4 @@
-{Diamond}Kel'Thuzad{Diamond}
+{Skull}Kel'Thuzad{Skull}
 
 Abilities:
 - FROSTBOLT: At random intervals KT will cast FB that hits for 9-11k dmg. Can be kicked.
@@ -10,7 +10,7 @@ Abilities:
 
 ADDS:
 Phase 1
-{Skull}Solder of the Frozen Wastes{Skull}
+{Cross}Solder of the Frozen Wastes{Cross}
 - Slow moving skeletons with low HP that explodes when they die.
 {Square}Unstoppable Abomination{Square}
 - Puts a stacking healing debuff (10%) on the Tank.
@@ -34,6 +34,7 @@ Phase 2 (starts after 5 minutes)
 - Chill DPS when CHAINS OF KEL'THUZAD cool down runs out.
 - Sheep and fear MC players and have OTs ready to pick up KT.
 - Focus heals on FROST BLASTed players.
+- Watch the floor for SHADOW FISSURE!
 
 Phase 3
 - Shackle 3 of the 5 Abominations and have OTs pick up the remaining 2.

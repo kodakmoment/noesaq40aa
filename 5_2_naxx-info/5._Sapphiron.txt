@@ -4,11 +4,11 @@ Abilities:
 - FROST AURA: 100 yard DOT every 2 seconds for 600 dmg. Can be partially resisted.
 - LIFE DRAIN: Curse every 24 sec on random player doing 2000 shadow dmg and heals Sapphiron 5000 life every tick.
 - BLIZZARD: Doing 3-4000 frost dmg in an dense area. Drifts in direction and slows movement by 65%. 15 sec duration.
-- ICEBOLT: Freezes 5 players one by one in place in a ice block doing 3000 dmg. Lasts 22 sec.
+- ICEBOLT: Freezes 5 players one at a time in a ICE BLOCK doing 3000 dmg. Lasts 22 sec.
 - FROST BREATH: A cloud of frost that hits the middle of the room and explodes doing insane dmg.
 - FLIGHT: 
     Sapphiron will turn to the air after 45 sec and repeating every 67 sec.
-    Will land after all ICEBOLT and FROST BREATH are casted
+    Will land after all ICEBOLT and FROST BREATH are casted.
 - TAIL SWIPE and CLEAVE: Regularely does dragon stuff in a cone in front and back.
 
 Tactics:
@@ -16,4 +16,5 @@ Tactics:
 - Ranged dps spreads out on the outer edge of the room.
 - Healers spread out between ranged and melee.
 - Stay spread during the air phase.
-- Wait til after last ICEBOLT is cast before running in LOS position.
+- Wait til after last ICEBOLT is cast before LOSing FROST BREATH.
+- Don't stack on ICE BLOCKs before last ICEBOLT is cast.
