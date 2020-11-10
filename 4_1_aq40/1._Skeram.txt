@@ -11,8 +11,7 @@ I3, I4 -> Left
 I5, I6 -> Right
 
 SHEEP ASSIGNMENTS
-M1 -> Left
-M2 -> Right
+M1 -> Keep all MC'd players sheeped
 
 HEAL ASSIGNMENT
 H1, H2 -> T1, T2

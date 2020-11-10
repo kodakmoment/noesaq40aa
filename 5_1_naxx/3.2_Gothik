@@ -1,7 +1,25 @@
 {Skull}Gothik the Harvester{Skull}
+{Cross}Unrelenting Rider{Cross}
+{Square}Unrelenting Deathknight{Square}
+{Circle}Unrelenting Trainee{Circle}
+{Star}Spectral Trainee{Star}
+{Triangle}Spectral Rider{Triangle}
+{Diamond}Spectral Deathknight{Diamond}
+{Moon}Spectral Horse{Moon}
+
+
+POSITION
+Min 3 tanks on Living for each bone structure.
+All ranged DPS living side.
+All melee DPS undead side
+Healers split evenly, Priest favoured living.
 
 TANK ASSIGNMENTS
+T1, T2 -> {Skull}
 
-HEALING ASSIGNMETNS
+HEALING ASSIGNMENTS
+H1, H3 -> T1
+H2, H4 -> T2
 
-KILL ORDER
+KILL ORDER Living: {Cross} -> {Square} -> {Circle}
+KILL ORDER Undead: {Star} -> {Triangle} -> {Diamond} -> {Moon}

@@ -2,7 +2,7 @@
 
 Abilities:
 - POISION CLOUD: Posion cloud spawning regulary under grobbulus. Lasts long time.
-- MUTATING INJECTION: DOT doing 4500 dmg after 10sec. Creates POISION CLOUD when cleansed.
+- MUTATING INJECTION: DOT doing 4500 dmg after 10sec. Creates POISION CLOUD when cleansed, runs out or on death.
 - SLIME SPRAY: Frontal cone attack for ~4000 dmg. Spawns FALLOUT SPAWN.
 - FALLOUT SPAWN: Add that does 10 yard AoE dmg.
 

@@ -1,16 +1,22 @@
 {Skull}Gluth{Skull}
 
 Abilities:
-- MORTAL WOUND: Stacking debuff reduces healing by 10%.
-- FRENZY: Goes into frenzy doing considerable more dmg.
-- TERRIFYING ROAR: AoE fear. 20 yard range.
-- ZOMBIES: Zombies spawns every 10sec at the entrance.
-- DECIMATE:
-    Reduce health of all players and zombies to 5%.
-    Zombies will walk towards Gluth and Gluth regains health if they reach him.
+- MORTAL WOUND: Stacking debuff reduces healing by 10%. Not Tauntable.
+- FRENZY: Goes into frenzy doing considerable more dmg. CD 10sec.
+- TERRIFYING ROAR: AoE fear. 20 yard range. CD 20 sec
+- SUMMON ZOMBIE CHOW: CD 10 sec.
+    Spawns on top of the green gates underneath the pipe's exit.
+    If they get to close to Gluth he will charge towards them killing it and heal for 5%.
+- DECIMATE: CD 100 seconds
+    Reduce health of all players and ZOMBIE CHOW to 5%.
+    Calls all ZOMBIES CHOW makeing them run towards Gluth.
+- ENRAGE: After 3 DECIMATE (~5min) Gluth's attack speed and dmg is increased significantly.
+
+Zombie Chow Abilities:
+- INFECTED WOUND: Puts a stacking debuff on melee attacks that increases dmg from melee attacks.
 
 Tactics:
-- Get boss in position and manage tank swaps for MORTAL WOUND.
+- Get boss in position and careful with threat to allow switch.
 - Use tranq shot for FRENZY.
 - Use NS heal rotation for tanks on DECIMATE
-- Kite ZOMBIES around until DECIMATE
+- Kite ZOMBIE CHOW around until DECIMATE

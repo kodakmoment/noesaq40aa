@@ -1,7 +1,17 @@
 {Skull}Gluth{Skull}
 
 TANK ASSIGNMENTS
+T1 -> {Skull}
 
-HEALING ASSIGNMETNS
+KITE ASSIGNMENTS
+T2, M1 -> Corner 1
+T3, M2 -> Corner 2
+T4, M3 -> Corner 3
+T5, M4 -> Corner 4
 
-KILL ORDER
+HEALING ASSIGNMENTS
+H1, H2, H3 -> T1
+H4 -> Corner 1
+H5 -> Corner 2
+H6 -> Corner 3
+H7 -> Corner 4

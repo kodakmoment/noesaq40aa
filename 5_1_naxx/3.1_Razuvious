@@ -1,7 +1,13 @@
 {Skull}Razuvious{Skull}
+{Cross}Deathknight Understudy{Cross}
+{Square}Deathknight Understudy{Square}
+{Circle}Deathknight Understudy{Circle}
+{Star}Deathknight Understudy{Star}
 
 TANK ASSIGNMENTS
+P1 -> {Cross} + {Circle}
+P2 -> {Square} + {Star}
+P3 -> Backup
 
-HEALING ASSIGNMETNS
-
-KILL ORDER
+HEALING ASSIGNMENTS
+H1, H2, H3, H4 -> Understudy currently tanking

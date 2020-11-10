@@ -1,7 +1,16 @@
 {Skull}Thaddius{Skull}
+{Cross}Stalagg{Cross}
+{Square}Feugen{Square}
 
-TANK ASSIGNMENTS
+POSITION Phase 1
+Groups 1, 3, 5, 7 -> Far
+Groups 2, 4, 6, 8 -> Near
+Healer 1, 3, 5, 7, 9 -> Far
+Healer 2, 4, 6, 8, 10 -> Near
+**Far and near relative to entrance**
 
-HEALING ASSIGNMETNS
+TANKING Phase 2
+T1 -> {Skull}
 
-KILL ORDER
+HEALING Phase 2
+H1, H2, H3, H4 -> T1

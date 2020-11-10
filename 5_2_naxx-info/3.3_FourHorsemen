@@ -4,7 +4,7 @@ Shared abilities:
 SHIELD WALL: All horesemen shield walls for 20sec at 50% and 20% hp.
 
 {Skull}Highlord Mograine{Skull}
-- RIGHTEOUS FIRE: 25% change on melee hit to do 2100-2700 dmg before 4800 dot.
+- RIGHTEOUS FIRE: 25% change on melee hit to do 2100-2700 instant dmg and 4800 dmg over 8 sec.
 
 {Circle}Thane Korth'ass{Circle}
 - METEOR:
@@ -14,7 +14,7 @@ SHIELD WALL: All horesemen shield walls for 20sec at 50% and 20% hp.
 {Square}Lady Blaumeax{Square}
 - VOID ZONE:
     Spawns Void Zones every 12 sec under players
-    Does considerable dmg to players who stand in them.
+    Does considerable dmg over time to players who stand in them.
 
 {Star}Sir Zeliek{Star}
 - HOLY WRATH: Beams a player that chains to nearby players within 5? yards.

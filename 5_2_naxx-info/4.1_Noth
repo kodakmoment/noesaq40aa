@@ -1,12 +1,26 @@
 {Skull}Noth the Plaguebringer{Skull}
 
 Abilities:
-- CURSE OF THE PLAGUEBRINGER: Curse that infects the target with WRATH OF THE PLAGUEBRINGER
-- WRATH OF THE PLAGUEBRINGER: Infects nearby allies doing 1000 dmg every 2 sec. Spreads very quick.
+- CURSE OF THE PLAGUEBRINGER:
+    Curse that infects multiple target perodically during the fight.
+    It lasts for 10 sec and if not dispelled with turn into WRATH OF THE PLAGUEBRINGER
+- WRATH OF THE PLAGUEBRINGER:
+    Infects nearby allies doing 1000 dmg every 2 sec.
+    Spreads extremely quickly and will most likely wipe the raid.
 - BLINK: Blinks causing a complete aggro wipe.
-- SPAWN SKELETON: Spawning an army of skeletons every 30 sec.
+- SUMMON SKELETON: Spawning PLAGUED WARRIORS every 30 sec from each large pile bone in the room.
 - CRIPPLE: Noth cripples everyone around him where he blinkes from reducing movement by 50%.
-- TELEPORT: After 90, 110 and 180 sec he teleport to the balcony and spawns champions and guardians.
+- TELEPORT BALCONY:
+    After 90 sec Noth will summon two waves of Champions
+    After 110 sec Noth will summon one wave of Champions followed by one wave of guardians
+    After 180 sec Noth will summone two waves of plagued guardians
+
+Adds:
+- PLAGUED WARRIOR: Skeleton with a cleave ability.
+- PLAGUED CHAMPTION: 
+    Skeleton with Mortal Strike and SHADOW SHOCK
+    Casts Shadow shock periodically shocking tank with significant shadow dmg.
+- PLAGUED GUARDIAN: Skeleton with arcane explosion
 
 Tactics:
 - Decurse immediately.
