@@ -1,0 +1,9 @@
+{Skull}Patchwerk{Skull}
+
+TANK ASSIGNMENTS
+T1, T2, T3 -> {Skull}
+
+HEALING ASSIGNMENTS
+H1, H3, H5 -> T1
+H2, H6 -> T2
+H4, H7 -> T3

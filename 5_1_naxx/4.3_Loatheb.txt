@@ -1,0 +1,18 @@
+{Skull}Loatheb{Skull}
+
+TANK ASSIGNMENTS
+T1 -> {Skull}
+
+HEALING ROTATION
+H1 casts heal number 1, H2 heal number 2 etc.
+
+CONSUMABLES
+Pop GSPP + GNPP before the fight
+2:10: Pop another GSPP
+2:40: Don’t use anything.
+3:10: Bandage.
+3:40: Healthstone
+4:10: GSPP and bandage
+
+Healers dps when heal locked.
+Warlocks reapply curses after removed.

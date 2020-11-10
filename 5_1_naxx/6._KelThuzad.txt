@@ -1,0 +1,47 @@
+{Skull}Kel Thuzad{Skull}
+
+ADDS PHASE 1:
+{Cross}Solder of the Frozen Wastes{Cross}
+{Square}Unstoppable Abomination{Square}
+{Circle}Soul Weaver{Circle}
+
+ADDS PHASE 3:
+{Cross}Guardian of Icecrown{Cross}
+{Square}Guardian of Icecrown{Square}
+{Circle}Guardian of Icecrown{Circle}
+{Star}Guardian of Icecrown{Star}
+{Triangle}Guardian of Icecrown{Triangle}
+
+KILL ORDER PHASE 1
+RANGED: {Circle} -> {Cross} -> {Skull}
+MELEE: {Square} -> {Skull}
+
+TANK ASSIGNMENTS PHASE 2 + 3
+T1, T2, T3 -> {Skull}
+T1 MTs while T2 and T3 OTs on MC.
+
+HEALING ASSIGNMETNS PHASE 2 + 3
+H1, H2, H3, H4, H5 -> T1, T2, T3
+
+MELEE DPS GROUPS PHASE 2 + 3
+M1, M4, M7, M10 -> Group A
+M2, M5, M8, M11 -> Group B
+M3, M6, M9, M12 -> Gropu C
+
+MELEE POSITIONING PHASE 2 + 3
+Gropu A -> Left
+Group B -> Right
+Group C -> Behind
+
+INTERRUPT ROTATION PHASE 2 + 3
+Group A -> Group B -> Group C [Rinse and repeat]
+
+PRIEST SHACKLE PHASE 3
+P1 -> {Cross}
+P2 -> {Square}
+
+TANK + KITE + HEALING ASSIGNMENT PHASE 3
+T4 -> {Circle}
+U1 -> {Star}
+U2 -> {Triangle}
+H6 -> T4

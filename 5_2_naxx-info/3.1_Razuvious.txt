@@ -1,0 +1,15 @@
+{Skull}Razuvious{Skull}
+
+Abilities:
+- UNBALANCING STRIKE: A very powerful strike that will kill even a shieldwalled tank.
+- DISRUPTING SHOUT: 45 yard AoE shout every 25 sec. Drains 4000 mana and 8000 hp.
+
+Deathknight Understudies abilities:
+- SHIELD WALL: Reduces incoming damage for 20 sec. 30sec CD.
+- TAUNT: Taunts target making them attack you. 1 minute CD.
+
+Tactics:
+- LOS Disrupting Shout.
+- Mind Soothe and MC 1 Understudy and have him tank Raz while shieldwalled.
+- Off tank the rest of the Understudies away
+- Position the boss so Understudies can be healed when LOS'ed

@@ -1,0 +1,23 @@
+{Skull}Grand Widow Faerlina{Skull}
+{Cross}Naxxramas Follower{Cross}
+{Square}Naxxramas Follower{Square}
+{Star}Naxxramas Worshipper{Star}
+{Circle}Naxxramas Worshipper{Circle}
+{Diamond}Naxxramas Worshipper{Diamond}
+{Triangle}Naxxramas Worshipper{Triangle}
+
+TANK ASSIGNMENTS
+T1 -> {Skull}
+T2 -> {Cross}
+T3 -> {Square}
+T4 -> {Star} + {Circle}
+T5 -> {Diamond} + {Triangle}
+
+HEALING ASSIGNMENTS
+H1, H2, H3 -> T1
+H4 -> T2
+H5 -> T3
+H6 -> T4
+H7 -> T5
+
+KILL ORDER {Cross} -> {Square} -> {Skull}

@@ -1,0 +1,32 @@
+:The Four Horsemen:
+
+{Skull}Highlord Mograine{Skull}
+{Cross}Thane Korth'ass{Cross}
+{Square}Lady Blaumeax{Square}
+{Star}Sir Zeliek{Star}
+
+TANK ASSIGNMENTS
+T1, T5 -> {Skull} Corner 1
+T2, T6 -> {Cross} Corner 2
+T3, T7 -> {Square} Corner 3
+T4, T8 -> {Star} Corner 4
+
+HEALING ASSIGNMENTS
+H1, H2, H3, H4 -> Red
+H5, H6, H7, H8 -> Blue
+H9, H10, H11, H12 -> Yellow
+
+HEALING ROTATION
+What mark update to run from the first corner.
+1 -> Red
+2 -> Blue
+3 -> Yellow
+Always leave on the third mark updated after the first corner.
+
+HEALING START POSITION
+H1, H5, H9 -> Corner 1
+H2, H6, H10 -> Corner 2
+H3, H7, H11 -> Corner 3
+H4, H8, H12 -> Corner 4
+
+KILL ORDER: {Skull} + {Cross} -> {Square} + {Star}

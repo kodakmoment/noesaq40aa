@@ -1,0 +1,18 @@
+{Skull}Noth the Plaguebringer{Skull}
+{Cross}plagued warrior{Cross}
+{Square}plagued champion{Square}
+{Star}plagued guardian{Star}
+
+TANK ASSIGNMENTS
+T1 -> {Skull}
+T2 -> {Cross}
+T3 -> {Square}
+T4 -> {Circle}
+
+HEALING ASSIGNMENTS
+H1, H2, H3 -> T1
+H4 -> T2
+H5 -> T3
+H6 -> T4
+
+KILL ORDER: {Star} -> {Square} -> {Cross} -> {Skull}

@@ -1,0 +1,24 @@
+{Skull}Loatheb{Skull}
+
+Abilities:
+- CORRUPTED MIND: Debuff that makes all heals have 60 sec cooldown.
+- POISION AURA: Deals 200 nature dmg every 6 sec to nearby players.
+- REMOVE CURSE: Loatheb removes all curses on himself every 30 sec.
+- INEVITABLE DOOM:
+    Will cast for the first time after 2 mins.
+    Deals 2,500 dmg every 30 seconds.
+    After 5 minutes this is decreased to 15 seconds.
+- SUMMON SPORE: 
+    Spawns a Spore that gives a debuff to the 5 closest players when it dies.
+    Increasing Melee crit chance with 50% and spell crit with 60% and generate no threat for 90 sec.
+
+Tactics:
+- Create healing rotation because of CORRUPTED MIND.
+- Warlocks reapply curses after REMOVE CURSE
+- Use GSPP and Bandage in a controlled manner
+    Pop GSPP + GNPP before the fight
+    2:10: Pop another GSPP
+    2:40: Don’t use anything.
+    3:10: Bandage.
+    3:40: Healthstone
+    4:10: GSPP and bandage

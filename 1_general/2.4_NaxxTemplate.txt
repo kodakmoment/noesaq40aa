@@ -1,0 +1,28 @@
+Naxxramas Assignments
+
+TANKS
+TANK 1 (T1): {Skull}
+TANK 2 (T2): {Cross}
+TANK 3 (T3): {Square}
+TANK 4 (T4): {Star}
+TANK 5 (T5): {Circle}
+TANK 6 (T6): {Triangle}
+TANK 7 (T7): {Moon}
+TANK 8 (T8): {Diamond}
+
+PRIEST
+PRIEST 1 (P1): 
+PRIEST 2 (P2): 
+PRIEST 3 (P3): 
+
+HEALERS
+HEALER 1 (H1): Shaman {Skull}
+HEALER 2 (H2): Priest {Cross}
+HEALER 3 (H3): Priest {Square}
+HEALER 4 (H4): Priest {Star}
+HEALER 5 (H5): Druid {Circle}
+HEALER 6 (H6):
+HEALER 7 (H7):
+HEALER 8 (H8): 
+HEALER 9 (H9): 
+HEALER 10 (H10):

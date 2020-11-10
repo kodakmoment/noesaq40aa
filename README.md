@@ -4,8 +4,9 @@
 * [MC](#MC)
 * [BWL](#BWL)
 * [AQ40](#AQ40)
-* [AQ40-v2](#AQ40-v2)
 * [AQ40 Info](#AQ40-Info)
+* [Naxx](#NAXX)
+* [Naxx Info](#NAXX-Info)
 * [Generate AngryAssignments.lua](#Generate-AngryAssignmentslua)
 * [Update your Angry Assignments file on your computer](#Update-your-Angry-Assignments-file-on-your-computer)
 
@@ -68,26 +69,6 @@
 * 8 [Twin Emps](4_1_aq40/8._TwinEmps.txt)
 * 9 [CThun](4_1_aq40/9._CThun.txt)
 
-## AQ40-v2
-
-* 0.1 [Obsidian Eradicator](4_2_aq40-v2/0.1_Eradicator.txt)
-* 0.2 [Anubisath Sentinels](4_2_aq40-v2/0.2_Sentinels.txt)
-* 0.3 [Brainwasher Packs](4_2_aq40-v2/0.3_Brainwashers.txt)
-* 0.4 [Scarab Gauntlet](4_2_aq40-v2/0.4_Gauntlet.txt)
-* 0.5 [After Frankriss](4_2_aq40-v2/0.5_AfterFrankriss.txt)
-* 0.6 [Anubisath Defender](4_2_aq40-v2/0.6_Defender.txt)
-* 0.7 [After Twins](4_2_aq40-v2/0.7_AfterTwins.txt)
-* 0.8 [More After Twins](4_2_aq40-v2/0.8_AfterTwins2.txt)
-* 1 [Skeram](4_2_aq40-v2/1._Skeram.txt)
-* 2 [Bug Trio](4_2_aq40-v2/2._Bug_Trio.txt)
-* 3 [Sartura](4_2_aq40-v2/3._Sartura.txt)
-* 4 [Frankriss](4_2_aq40-v2/4._Fankriss.txt)
-* 5 [Viscidus](4_2_aq40-v2/5._Viscidus.txt)
-* 6 [Huhuran](4_2_aq40-v2/6._Huhuran.txt)
-* 7 [Ouru](4_2_aq40-v2/7._Ouro.txt)
-* 8 [Twin Emps](4_2_aq40-v2/8._TwinEmps.txt)
-* 9 [CThun](4_2_aq40-v2/9._CThun.txt)
-
 ## AQ40 Info
 
 * 0.1 [Obsidian Eradicator](4_3_aq40-info/0.1_Eradicator.txt)
@@ -107,6 +88,42 @@
 * 7 [Ouru](4_3_aq40-info/7._Ouro.txt)
 * 8 [Twin Emps](4_3_aq40-info/8._TwinEmps.txt)
 * 9 [CThun](4_3_aq40-info/9._CThun.txt)
+
+## NAXX
+
+* 1.1 [Anub Rekhan](5_1_naxx/1.1_AnubRekhan.txt)
+* 1.2 [Faerlina](5_1_naxx/1.2_Faerlina.txt)
+* 1.3 [Maexxna](5_1_naxx/1.3_Maexxna.txt)
+* 2.1 [Patchwerk](5_1_naxx/2.1_Patchwerk.txt)
+* 2.2 [Grobbulus](5_1_naxx/2.2_Grobbulus.txt)
+* 2.3 [Gluth](5_1_naxx/2.3_Gluth.txt)
+* 2.4 [Thaddius](5_1_naxx/2.4_Thaddius.txt)
+* 3.1 [Razuvious](5_1_naxx/3.1_Razuvious.txt)
+* 3.2 [Gothik](5_1_naxx/3.2_Gothik.txt)
+* 3.3 [Four Horsemen](5_1_naxx/3.3_FourHorsemen.txt)
+* 4.1 [Noth](5_1_naxx/4.1_Noth.txt)
+* 4.2 [Heigan](5_1_naxx/4.2_Heigan.txt)
+* 4.3 [Loatheb](5_1_naxx/4.3_Loatheb.txt)
+* 5 [Sapphiron](5_1_naxx/5._Sapphiron.txt)
+* 6 [Kel Thuzad](5_1_naxx/6._KelThuzad.txt)
+
+## NAXX Info
+
+* 1.1 [Anub Rekhan](5_2_naxx-info/1.1_AnubRekhan.txt)
+* 1.2 [Faerlina](5_2_naxx-info/1.2_Faerlina.txt)
+* 1.3 [Maexxna](5_2_naxx-info/1.3_Maexxna.txt)
+* 2.1 [Patchwerk](5_2_naxx-info/2.1_Patchwerk.txt)
+* 2.2 [Grobbulus](5_2_naxx-info/2.2_Grobbulus.txt)
+* 2.3 [Gluth](5_2_naxx-info/2.3_Gluth.txt)
+* 2.4 [Thaddius](5_2_naxx-info/2.4_Thaddius.txt)
+* 3.1 [Razuvious](5_2_naxx-info/3.1_Razuvious.txt)
+* 3.2 [Gothik](5_2_naxx-info/3.2_Gothik.txt)
+* 3.3 [Four Horsemen](5_2_naxx-info/3.3_FourHorsemen.txt)
+* 4.1 [Noth](5_2_naxx-info/4.1_Noth.txt)
+* 4.2 [Heigan](5_2_naxx-info/4.2_Heigan.txt)
+* 4.3 [Loatheb](5_2_naxx-info/4.3_Loatheb.txt)
+* 5 [Sapphiron](5_2_naxx-info/5._Sapphiron.txt)
+* 6 [Kel Thuzad](5_2_naxx-info/6._KelThuzad.txt)
 
 ## Generate AngryAssignments.lua
 

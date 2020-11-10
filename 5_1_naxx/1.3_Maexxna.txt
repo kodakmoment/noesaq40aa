@@ -1,0 +1,12 @@
+{Skull}Maexxna{Skull}
+
+TANK ASSIGNMENTS
+T1 -> {Skull}
+T2 -> Spiderlings
+
+WEB WRAP
+Mages + Hunters -> Cocoons
+
+HEALING ASSIGNMENTS
+H1, H2, H3, H4 -> T1
+H5 -> T2

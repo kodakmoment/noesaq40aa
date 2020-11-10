@@ -1,0 +1,17 @@
+{Skull}Grand Widow Faerlina{Skull}
+
+Adds:
+- Naxxramas Followers x2: AOE-SILENCE and random player HEADBUTT.
+- Naxxramas Worshippers x4: Got an ability to SACRIFICE themselves dispelling enrage and killing themselves.
+
+Abilities:
+- ENRAGES every 60 seconds increasing dmg and attack speed significantly.
+- POISION AOE BOLT. Hits 10 players for 1200-1400 and tics 400 every 2sec.
+- RAIN OF FIRE 2000 per hit.
+
+Tactics:
+- Put two tanks on naxxramas followers and tank them away from the raid.
+- Put four tanks on the worshippers.
+- Have a priest MIND CONTROL a worshipper 10 seconds before ENRAGE and use SACRIFICE directly after ENRAGE.
+- Stay out of RAIN OF FIRE and DISPELL poisions.
+- DPS fight!

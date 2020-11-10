@@ -1,0 +1,18 @@
+{Skull}Heigan the Unclean{Skull}
+
+Abilities:
+- AOE MANA BURN: Drains large ammount of mana and deals shadow dmg equal to mana drained.
+- ERUPTION: Errupts the floor in a predictable pattern causing 3500-4500 unresistable nature dmg.
+- DECREPIT FEVER: Max health reduced by 50% and does 500 dmg every 3 sec. Curable?
+- TELEPORT: Periodically teleports 3 players to the Eye Stalk tunne.
+
+Fight cycle (135 sec):
+- Phase 1: Heigan is in the field and eruption moves slowly for 90 sec.
+- Phase 2:
+    Heigan teleports to the platform which will be affected by heavy AoE.
+    Eruptions will move more quickly but Heigan will not use AOE MANA BURN, DECREPIT FEVER or TELEPORT.
+    This will last for 45 sec before returning to phase 1. Rinse and repeat.
+
+Tactics:
+- Ranged and healers stack on the platform during phase 1.
+- Everyone needs to do the Heigan dance during phase 2!

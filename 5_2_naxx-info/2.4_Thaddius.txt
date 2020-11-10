@@ -1,0 +1,31 @@
+{Skull}Thaddius{Skull}
+
+Abilities:
+- CHAIN LIGHTING: Chain lighting that hits several players for minor dmg.
+- BALL LIGHTINGS: Hits for 8000 dmg if no one is in melee range of Thaddius
+- ENRAGE: After 5 minutes Thaddius enrages and kills the entire raid.
+
+Phase 1
+- STALAGG:
+    WAR STOMP: 1500 physical dmg, does not stun.
+    POWER SURGE: 200% increased attack speed and all attacks NOT blocked, dodged or parried is crushing for 8sec.
+- FEUGEN:
+    WAR STOMP: 1500 physical dmg, does not stun.
+    AOE MANA DRAIN: Drains mana.
+
+Tactics:
+- Put melee on FEUGEN because of AOE MANA DRAIN
+- Every 20sec tanks are knocked between the 2 platforms.
+- Casters focus on STALAGG because of POWER SURGE
+- DPS chill during the tank transition.
+- STALAGG and FEUGEN need to die at the same time!
+
+Phase 2
+- BLUE (+) or RED (-):
+    Debuff that gives 10% dmg to all with same charge within 10 yards.
+    Deals 2000 nature dmg to all opposite charged players within 10 yards.
+
+Tactics:
+- Every 30 sec Thaddius gives all players a random charge between BLUE and RED
+- Stack everyone with the same debuff together.
+- Have players who has their charge changed run to the other group.
