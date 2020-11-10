@@ -1,4 +1,4 @@
-{Skull}Kel'Thuzad{Skull}
+{Skull}Kel Thuzad{Skull}
 
 Abilities:
 - FROSTBOLT: At random intervals KT will cast FB that hits for 9-11k dmg. Can be kicked.

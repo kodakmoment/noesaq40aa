@@ -1,4 +1,4 @@
-{Skull}Kel'Thuzad{Skull}
+{Skull}Kel Thuzad{Skull}
 
 ADDS PHASE 1:
 {Cross}Solder of the Frozen Wastes{Cross}
@@ -31,7 +31,7 @@ M3, M6, M9, M12 -> Gropu C
 MELEE POSITIONING PHASE 2 + 3
 Gropu A -> Left
 Group B -> Right
-Group C -> Behind ("on the ass")
+Group C -> Behind
 
 INTERRUPT ROTATION PHASE 2 + 3
 Group A -> Group B -> Group C [Rinse and repeat]
