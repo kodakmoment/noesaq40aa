@@ -1,8 +1,10 @@
 {Skull}Anub'Rekhan{Skull}
+{Cross}Crypt Guards{Cross}
+{Square}Crypt Guards{Square}
 
 TANK ASSIGNMENTS
 T1 -> {Skull}
-T2 -> {Circle}
+T2 -> {Cross}
 T3 -> {Square}
 
 HEALING ASSIGNMENTS

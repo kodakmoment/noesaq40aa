@@ -1,12 +1,12 @@
 {Skull}Razuvious{Skull}
 {Cross}Deathknight Understudy{Cross}
 {Square}Deathknight Understudy{Square}
-{Circle}Deathknight Understudy{Circle}
 {Star}Deathknight Understudy{Star}
+{Circle}Deathknight Understudy{Circle}
 
 TANK ASSIGNMENTS
-P1 -> {Cross} + {Circle}
-P2 -> {Square} + {Star}
+P1 -> {Cross} + {Star}
+P2 -> {Square} + {Circle}
 P3 -> Backup
 
 HEALING ASSIGNMENTS

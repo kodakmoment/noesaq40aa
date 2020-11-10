@@ -1,7 +1,11 @@
 {Skull}Kel'Thuzad{Skull}
+
+ADDS PHASE 1:
 {Cross}Solder of the Frozen Wastes{Cross}
 {Square}Unstoppable Abomination{Square}
 {Circle}Soul Weaver{Circle}
+
+ADDS PHASE 3:
 {Cross}Guardian of Icecrown{Cross}
 {Square}Guardian of Icecrown{Square}
 {Circle}Guardian of Icecrown{Circle}
