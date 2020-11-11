@@ -1,8 +1,8 @@
 {Skull}Gothik the Harvester{Skull}
 {Cross}Unrelenting Rider{Cross}
 {Square}Unrelenting Deathknight{Square}
-{Circle}Unrelenting Trainee{Circle}
-{Star}Spectral Trainee{Star}
+{Star}Unrelenting Trainee{Star}
+{Circle}Spectral Trainee{Circle}
 {Triangle}Spectral Rider{Triangle}
 {Diamond}Spectral Deathknight{Diamond}
 {Moon}Spectral Horse{Moon}
@@ -14,12 +14,13 @@ All ranged DPS living side.
 All melee DPS undead side
 Healers split evenly, Priest favoured living.
 
-TANK ASSIGNMENTS
-T1, T2 -> {Skull}
+TANK ASSIGNMENT
+T1 -> Living -> {Skull}
+T2 -> Undead -> {Skull}
 
 HEALING ASSIGNMENTS
-H1, H3 -> T1
-H2, H4 -> T2
+H1, H3 -> Living -> T1
+H2, H4 -> Undead -> T2
 
-KILL ORDER Living: {Cross} -> {Square} -> {Circle}
-KILL ORDER Undead: {Star} -> {Triangle} -> {Diamond} -> {Moon}
+KILL ORDER Living: {Cross} -> {Square} -> {Star}
+KILL ORDER Undead: {Circle} -> {Triangle} -> {Diamond} -> {Moon}

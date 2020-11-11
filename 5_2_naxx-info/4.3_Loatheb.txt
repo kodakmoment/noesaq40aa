@@ -11,6 +11,7 @@ Abilities:
 - SUMMON SPORE: 
     Spawns a Spore that gives a debuff to the 5 closest players when it dies.
     Increasing Melee crit chance with 50% and spell crit with 60% and generate no threat for 90 sec.
+    Spawns every 12 sec.
 
 Tactics:
 - Create healing rotation because of CORRUPTED MIND.

@@ -6,6 +6,9 @@ T1 -> {Skull}
 HEALING ROTATION
 H1 casts heal number 1, H2 heal number 2 etc.
 
+SPORE ROTATION
+??
+
 CONSUMABLES
 Pop GSPP + GNPP before the fight
 2:10: Pop another GSPP

@@ -15,6 +15,16 @@ PRIEST 1 (P1):
 PRIEST 2 (P2): 
 PRIEST 3 (P3): 
 
+MAGE
+MAGE 1 (M1): 
+MAGE 2 (M2): 
+MAGE 3 (M3): 
+MAGE 4 (M4): 
+
+HUNTER
+HUNTER 1 (U1): 
+HUNTER 2 (U2): 
+
 HEALERS
 HEALER 1 (H1): Shaman {Skull}
 HEALER 2 (H2): Priest {Cross}
