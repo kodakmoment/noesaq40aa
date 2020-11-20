@@ -8,10 +8,10 @@
 
 TANK ASSIGNMENTS
 T1 -> {Skull}
-T2 -> {Cross}
-T3 -> {Square}
-T4 -> {Star} + {Circle}
-T5 -> {Diamond} + {Triangle}
+T2 -> {Star} + {Circle}
+T3 -> {Diamond} + {Triangle}
+T4 -> {Cross}
+T5 -> {Square}
 
 HEALING ASSIGNMENTS
 H1, H2, H3 -> T1
