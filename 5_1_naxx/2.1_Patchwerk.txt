@@ -1,9 +1,14 @@
 {Skull}Patchwerk{Skull}
 
 TANK ASSIGNMENTS
-T1, T2, T3 -> {Skull}
+T1 -> {Skull}
+T2, T3, T4 -> Stay below MT and fight for threat
+T2 needs bigger hp pool than T3 same as with T3 and T4
 
 HEALING ASSIGNMENTS
-H1, H3, H5 -> T1
-H2, H6 -> T2
-H4, H7 -> T3
+H1, H5, H9 -> T1
+H2, H6, H10 -> T2
+H3, H7, H11 -> T3
+H4, H8, H12 -> T4
+
+Spam high and mana efficient heals constantly

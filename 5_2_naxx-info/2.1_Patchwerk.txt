@@ -4,7 +4,8 @@ Abilities:
 - HATEFUL STRIKE: 
     Hits every 1.5-2 sec
     8000 dmg vs tank in defencive stance.
-    Hits player with highets HP and threath in melee range.
+    Will not hit player with highest threat.
+    Hits player with highets total hp in top 4 threath in melee range.
 - BERSERK:
     After 7 min he goes berserk doing about x5 dmg
     After 7 min 30 sec he will AOE shoot the hole raid for 25k dmg each
