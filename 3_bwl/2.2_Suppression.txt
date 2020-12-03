@@ -9,7 +9,7 @@ PULLING
 U1 pulls
 
 HEALING
-H1 -> U1 if needed
+H2 -> Puller
 
 ROGUES desuppress traps
 AOE when 2 or more groups

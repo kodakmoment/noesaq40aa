@@ -2,10 +2,12 @@
 
 Adds:
 - Crypt Guards - Elite
+    ACID SPIT (dot stacks indefinitely from every attack) - offtanks may need GNPP
+    CLEAVE, ENRAGE at 50% and aoe WEB
 - Corpse scarabs - Non-elite
 
 Abilities:
-- IMPALE: Casts a long line of spikes towards a random player within 35 yards, 4000dmg on cloth. Everyone hit is thrown in the air and takes about 1000dmg.
+- IMPALE: Line of spikes at random player within 35 yards, 4000dmg on cloth. Everyone hit is thrown in the air and takes about 1000dmg.
 - SPAWN CORPSE SCARABS: Everytime a player or Crypt Guard dies, it will spawn 10 corpse scarabs.
 - LOCUST SWARM: 
     30 yard AOE from Anub that affects everyone in range.
@@ -14,9 +16,9 @@ Abilities:
     Used every 70-120sec.
 
 Tactics:
-- Put tank on Anub and the crypt guards and dps down the crypt guards first.
-- Remember to kill all scarabs that spawns.
+- 4 tanks: 1 on Anub, 1 on CG1, 2 on CG2 - dps down the crypt guards first.
+- Remember to kill all scarabs that spawn from bodies
 - Spread out to avoid IMPALE the whole raid.
 - LOCUST SWARM:
-    Move to the center and kill the Crypt Guards that spawns.
-    MT kites Anub in a half circle back to the entrance.
+    Move AWAY from Anub - group in center of room and kill Crypt Guards that spawn (2 tanks - 3 tanks if 2x at once)
+    MT kites Anub in a half circle around ledge back to the entrance - no dps during this unless out of range of swarm

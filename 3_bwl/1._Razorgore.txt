@@ -7,8 +7,8 @@ U2, L1 -> Backup
 POSITION
 Groups 1, 3, 5, 7 -> Far
 Groups 2, 4, 6, 8 -> Near
-Healer 1, 3, 5, 7, 9 -> Far
-Healer 2, 4, 6, 8, 10 -> Near
+Healer 1, 3, 5, 7, 9, 11 -> Far
+Healer 2, 4, 6, 8, 10, 12 -> Near
 **Far and near relative to entrance**
 
 TANKING

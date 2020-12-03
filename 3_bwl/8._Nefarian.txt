@@ -3,8 +3,8 @@
 POSITIONING PHASE 1
 Groups 1, 3, 5, 7 -> Near
 Groups 2, 4, 6, 8 -> Far
-Healer 1, 3, 5, 7, 9 -> Near
-Healer 2, 4, 6, 8, 10 -> Far
+Healer 1, 3, 5, 7, 9, 11 -> Near
+Healer 2, 4, 6, 8, 10, 12 -> Far
 **Far and near relative to entrance**
 
 TANKING
