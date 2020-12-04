@@ -16,7 +16,7 @@ Abilities:
     Used every 70-120sec.
 
 Tactics:
-- 4 tanks: 1 on Anub, 1 on CG1, 2 on CG2 - dps down the crypt guards first.
+- 4 tanks: 1 on Anub, 1 on CG1, 2 on CG2 - kill crypt guards first.
 - Remember to kill all scarabs that spawn from bodies
 - Spread out to avoid IMPALE the whole raid.
 - LOCUST SWARM:

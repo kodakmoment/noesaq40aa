@@ -4,10 +4,14 @@ TANK ASSIGNMENTS
 T1 -> {Skull}
 
 HEALING ROTATION
-H1 casts heal number 1, H2 heal number 2 etc.
+H1 casts heal number 1
+H2 casts heal number 2
+And so on
 
 SPORE ROTATION
-??
+Mark 1 player in 5 groups in charge of rotation.
+All players follow their mark in their group.
+Rotation: {Circle} -> {Cross} -> {Square} -> {Star} -> {Moon}
 
 CONSUMABLES
 Pop GSPP + GNPP before the fight
