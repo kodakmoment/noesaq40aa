@@ -21,7 +21,7 @@ T1, T2, T3 -> {Skull}
 T1 MTs while T2 and T3 OTs on MC.
 
 HEALING ASSIGNMETNS PHASE 2 + 3
-H1, H2, H3, H4, H5 -> T1, T2, T3
+H1, H2, H3, H4, H5, H6 -> T1, T2, T3
 
 MELEE DPS GROUPS PHASE 2 + 3
 M1, M4, M7, M10 -> Group A
@@ -37,11 +37,11 @@ INTERRUPT ROTATION PHASE 2 + 3
 Group A -> Group B -> Group C [Rinse and repeat]
 
 PRIEST SHACKLE PHASE 3
-P1 -> {Cross}
-P2 -> {Square}
+P1, P3 -> {Cross}
+P2, P4 -> {Square}
 
 TANK + KITE + HEALING ASSIGNMENT PHASE 3
 T4 -> {Circle}
 U1 -> {Star}
 U2 -> {Triangle}
-H6 -> T4
+H7 -> T4

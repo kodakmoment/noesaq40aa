@@ -9,5 +9,8 @@ P1 -> {Cross} + {Star}
 P2 -> {Square} + {Circle}
 P3 -> Backup
 
+TANK ROTATION
+{Cross} -> {Star} -> {Square} -> {Circle}
+
 HEALING ASSIGNMENTS
-H1, H2, H3, H4 -> Understudy currently tanking
+H1, H2, H3, H4, H5 -> Understudy currently tanking
